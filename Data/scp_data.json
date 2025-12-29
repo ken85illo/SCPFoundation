@@ -1,0 +1,893 @@
+{
+  "006": {
+    "id": "SCP-006",
+    "title": "Fountain of Youth",
+    "class": "Safe",
+    "procedure": "Whereas the nature of SCP-006 does not warrant any extensive containment, a certain level of secrecy is necessary regarding the object's existence and properties, for obvious reasons. The following procedures are required not for personnel safety, but to deny or hide knowledge of SCP-006's effects from the personnel who interact with it.",
+    "description": "SCP-006 is a very small spring located 60 km west of Astrakhan. Foundation Command was aware of its existence since the 19th century, but were unable to secure it until 1991 due to political reasons. On the spot of the spring, a chemical factory has been constructed as a disguise, with the majority of laborers under Foundation and/or Russian control. The liquid emitted from the spring has been chemically identified as simple mineral water in 1902, but has the unusual property of \"health\".",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-006/SCP006_stream-new.jpg",
+    "caption": "SCP-006"
+  },
+  "010": {
+    "id": "SCP-010",
+    "title": "Collars of Control",
+    "class": "Safe",
+    "procedure": "The objects comprising SCP-010 are to be kept in numbered locked boxes at Site-19. They are not to be worn except by test subjects.",
+    "description": "SCP-010 consists of a series of six (6) apparently identical cast iron collars with numbered metal tags and one (1) remote control. The control is SCP-010-1. The collars are SCP-010-2 through 010-7. The collars contain intricate electronic components and are powered by small (5 mm diameter, 2 mm thick) 100 V batteries. These batteries are rechargeable.",
+    "image": null,
+    "caption": null
+  },
+  "011": {
+    "id": "SCP-011",
+    "title": "Sentient Civil War Memorial Statue",
+    "class": "Safe",
+    "procedure": "Item SCP-011 and the area surrounding it are to be cleaned once every day. For safety purposes, cleaning should start at least 30 minutes after sundown. Cleaning should always be performed by at least two (2) personnel, who are also advised to note anything unusual about the item or the debris cleaned up. In a situation where the item cannot be cleaned for more than two (2) days, local residents must be contacted and instructed not to approach the item.",
+    "description": "SCP-011 is a Civil War memorial statue located in Woodstock, Vermont. The statue is the image of a young male soldier holding a musket at his side, and is carved out of granite quarried within the area. Occasionally, SCP-011 has been observed lifting its musket to the sky to fire at birds which attempt to land or defecate on it. Reports detail that its movements produce soft grinding sounds but do not cause it any structural failure. Oddly, the gunfire is very similar to that of a standard firearm, despite observations that the item only loads granite bullets and granite powder into the musket (which is also unharmed by the firing). In spite of its efforts, some fecal matter does manage to strike SCP-011, and it has reportedly become distressed when it has had a large amount of feces on it, on some rare occasions even firing at humans.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-011/SCP011.jpg",
+    "caption": "SCP-011"
+  },
+  "007": {
+    "id": "SCP-007",
+    "title": "Abdominal Planet",
+    "class": "Euclid",
+    "procedure": "SCP-007 is to be contained in a sealed room measuring 10 m on each side. Room is to be furnished comfortably as a living area, along with whatever items are requested by ███████████████ (hereafter referred to as Subject), given that providing Subject with requested items would not compromise security. Subject is not to be allowed to leave the room, and is to be detained with force if necessary.",
+    "description": "SCP-007 is located within a cavity in the abdomen of Subject. Subject is a Caucasian male, physically approximately 25 years of age (subject claims to be 28) and 176 cm in height. Most of Subject's abdomen (muscles, skin, and organs) is absent, though Subject does not appear to suffer because of this. Instead of normal flesh, a sphere composed of soil and water is present, though it does not actually come into contact with Subject's body at any point. The sphere appears to be, in most respects, a miniature near-duplicate of the Earth, approximately 60 cm in diameter, although continental alignment is not consistent with that of any alignment known in Earth's history. The sphere has its own weather patterns and negligible gravitational pull, in addition to microscopic organisms somewhat resembling those of modern-day Earth inhabiting it. Two intelligent species have been observed, though contact and communication with either has yet to be made. Technology levels of observed species must be checked at least once a week and, as of ██/████, are approximately equal to that of 15th-Century Earth.",
+    "image": null,
+    "caption": null
+  },
+  "004": {
+    "id": "SCP-004",
+    "title": "The 12 Rusty Keys and the Door",
+    "class": "Euclid",
+    "procedure": "When handling items SCP-004-2 through SCP-004-13, proper procedure is vital. The items are not permitted to be moved off-site unless accompanied by two Level 4 security personnel. Under no circumstances should any other component of SCP-004 be taken through SCP-004-1. The effects of doing so are as yet unknown, and the current cost of experimentation makes further research impractical. Should any of the objects contained within SCP-004-1 breach containment, or the facility be breached, the keys must be brought inside and the door closed prior to activation of Site 62’s on-site warhead. Unauthorized removal of keys from the testing area is grounds for immediate termination.",
+    "description": "SCP-004 consists of an old wooden barn door (SCP-004-1) and a set of twelve rusted steel keys (SCP-004-2 through SCP-004-13). The door itself is the entrance to an abandoned factory in [DATA EXPUNGED].",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-004/SCP004_door-new.jpg",
+    "caption": "SCP-004-1"
+  },
+  "009": {
+    "id": "SCP-009",
+    "title": "Red Ice",
+    "class": "Euclid",
+    "procedure": "Object is to be contained within a sealed storage tank of heat-resistant alloy with dimensions not less than 2m x 2m x 2m.",
+    "description": "SCP-009 is approximately ███ liters of a substance which superficially resembles distilled water (H 2 O), except with a distinct bright red hue. This red hue is discernible in all phases, and serves as the most expedient method of identifying contaminated matter before its anomalous properties manifest. In contrast to mundane water, SCP-009 assumes a liquid phase at temperatures between -100°C and 0°C, and a solid state above those temperatures. At temperatures below -100°C, SCP-009 vaporizes into a gaseous phase similar to steam.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-009/009.png",
+    "caption": "SCP-009 prior to recovery"
+  },
+  "002": {
+    "id": "SCP-002",
+    "title": "The \"Living\" Room",
+    "class": "Euclid",
+    "procedure": "SCP-002 is to remain connected to a suitable power supply at all times, to keep it in what appears to be a recharging mode. In case of electrical outage, the emergency barrier between the object and the facility is to be closed and the immediate area evacuated. Once facility power is re-established, alternating bursts of X-ray and ultraviolet light must strobe the area until SCP-002 is re-affixed to the power supply and returned to recharging mode. Containment area is to be kept at negative air pressure at all times.",
+    "description": "SCP-002 resembles a tumorous, fleshy growth with a volume of roughly 60 m³ (or 2000 ft³). An iron valve hatch on one side leads to its interior, which appears to be a standard low-rent apartment of modest size. One wall of the room possesses a single window, though no such opening is visible from the exterior. The room contains furniture which, upon close examination, appears to be sculpted bone, woven hair, and various other biological substances produced by the human body. All matter tested thus far show independent or fragmented DNA sequences for each object in the room.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-002/800px-SCP002-new.jpg",
+    "caption": "SCP-002 in its containment area"
+  },
+  "003": {
+    "id": "SCP-003",
+    "title": "Biological Motherboard",
+    "class": "Euclid",
+    "procedure": "SCP-003 is to be maintained at a constant temperature of no less than 35°C and ideally kept above 100°C. No living multicellular organisms of Category IV or higher complexity may be allowed to come into contact with SCP-003.",
+    "description": "SCP-003 consists of two related components of separate origin, referred to as SCP-003-1 and SCP-003-2.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-003/SCP-003a-new.jpg",
+    "caption": "A close up of SCP-003's circuitry"
+  },
+  "005": {
+    "id": "SCP-005",
+    "title": "Skeleton Key",
+    "class": "Safe",
+    "procedure": "SCP-005 poses no immediate risk in any direct sense. Even so, its unique functions require special measures be taken to restrict access and manipulation of the object. Approval of at least one (1) Level 4 personnel is required for the removal of the object from its containment area.",
+    "description": "In appearance, SCP-005 resembles an ornate key, displaying the characteristics of a typical mass produced key used in the 1920s. The key was discovered when a civilian used it to infiltrate a high security facility. SCP-005 seems to have the unique ability to open any and all forms of lock (See Appendix A), be they mechanical or digital, with relative ease. The origin of this ability has yet to be determined.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-005/SCP-005.jpg",
+    "caption": "A close up of SCP-005"
+  },
+  "008": {
+    "id": "SCP-008",
+    "title": "Zombie Plague",
+    "class": "Euclid",
+    "procedure": "SCP-008 samples have been deemed Class V extreme biological hazards, and all related protocols apply. Incineration and irradiation measures will be deployed in the event of political or military action which may result in the facility being dismantled; a power failure; or zero communications from operatives or outside channels during any given eight hour period.",
+    "description": "SCP-008 is a complex prion, samples of which are stored in each of the known G2 sites. Research into SCP-008 is highly classified and primarily aimed at preventing research which may lead to the synthesis of SCP-008 in the distant future. Traits of the SCP-008 prion include:",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-008/scp-008.png",
+    "caption": "Ribbon diagram illustrating tertiary structure of SCP-008. Primary amino acid sequence information has been redacted."
+  },
+  "012": {
+    "id": "SCP-012",
+    "title": "A Bad Composition",
+    "class": "Euclid",
+    "procedure": "SCP-012 is to be kept in a darkened room at all times. If the object is exposed to light or seen by personnel using a light frequency other than infrared, remove personnel for mental health screening and immediate physical. Object is to be encased in an iron-shielded box, suspended from the ceiling with a minimum clearance of 2.5 m (8 ft) from the floor, walls, and any openings.",
+    "description": "SCP-012 was retrieved by Archaeologist K.M. Sandoval during the excavation of a northern Italian tomb destroyed in a recent storm. The object, a piece of handwritten musical score entitled \"On Mount Golgotha\", part of a larger set of sheet music, appears to be incomplete. The red/black ink, first thought to be some form of berry or natural dye ink, was later found to be human blood from multiple subjects. The first personnel to locate the sheet (Site 19 Special Salvage) had two (2) members descend into insanity, attempting to use their own blood to finish the composition, ultimately resulting in massive blood loss and internal trauma.",
+    "image": null,
+    "caption": null
+  },
+  "014": {
+    "id": "SCP-014",
+    "title": "The Concrete Man",
+    "class": "Safe",
+    "procedure": "SCP-014 is to be kept in Site-██, in a chair with arms, preferably facing a window. Music should be supplied on a regular basis, preferably constantly. This music should not include pieces originating after 1937. A security camera should be present in SCP-014's room.",
+    "description": "SCP-014 is a Caucasian male, appearing to be approximately 30 years of age, with black hair, brown eyes, and a somewhat round face. Records indicate his name to be Robert Chetford, confined in 1915 to the Norwich Asylum in Connecticut for delusional insanity, claiming that he had been cursed to live forever, and was slowly turning into concrete in consequence. The asylum closed in 1937, and the patients were transferred to various other facilities. SCP-014 came to Foundation attention in 19██, from rumours of a patient who seemed to be entirely immobile and showed no signs of aging. Further investigation determined that acquisition was warranted.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-014/3241597616_e47326fc1a-new.jpg",
+    "caption": "SCP-014 prior to initial confinement."
+  },
+  "013": {
+    "id": "SCP-013",
+    "title": "Blue Lady Cigarettes",
+    "class": "Safe",
+    "procedure": "SCP-013 are to be kept in a Secure Storage Vault at Site-66. Exposed subjects are to be monitored for differences between their symptoms. Exposed subjects are to be interviewed daily, and any changes in perception are to be logged.",
+    "description": "SCP-013 is the collective designation of 242 cigarettes which display similar anomalies. The most common external detail between instances is the presence of the words “Blue Lady” hand-written on each cigarette in blue ink.",
+    "image": "https://scp-wiki.wdfiles.com/local--resized-images/scp-013/SCP-013updated/medium.jpg",
+    "caption": null
+  },
+  "015": {
+    "id": "SCP-015",
+    "title": "Pipe Nightmare",
+    "class": "Euclid",
+    "procedure": "SCP-015 is impossible to move, and is contained on-site. A gap of at least 2 m (6 ft) needs to be maintained around the entire structure containing SCP-015 at all times, and no structures of any kind are to make contact with SCP-015's current containment structure. Exploration is permissible, but only in teams of three (3) with full safety lines and GPS tracking. Any protrusions from SCP-015 must be capped and sealed immediately, with the new site recorded and logged.",
+    "description": "SCP-015 is a mass of pipes, vents, boilers and other various plumbing apparatus completely filling a warehouse in ███████. The pipes appear to grow when not under observation, attempting to connect to nearby structures via sewer systems and underground plumbing. SCP-015 contains, at current estimate, over 190 kilometers (120 miles) of pipes, ranging in diameter from 2.5 cm to over 1 m. Some pipes appear new, while others are rusted and leaking. Pipes have been reported as being made of bone, wood, steel, pressed ash, human flesh, glass, and granite. No pipes composed of lead, PVC plastic, copper, or any other traditional material for the production of pipes have been found.",
+    "image": "https://scp-wiki.wdfiles.com/local--resized-images/scp-015/SCP-015New/medium.jpg",
+    "caption": null
+  },
+  "020": {
+    "id": "SCP-020",
+    "title": "Unseen Mold",
+    "class": "Keter",
+    "procedure": "Samples of SCP-020 are stored in a series of sealed cultivation chambers inside a sealed containment room at Biological Research Area-12 which is accessible only via airlock. Nutrients are administered via automated robotic systems, as the cultivation chamber must remain sealed at all times.",
+    "description": "SCP-020 is a fast-spreading fungal organism that is capable of affecting the senses and behavior of living creatures, including humans. Samples of SCP-020 exhibit an unknown effect that renders them effectively invisible to direct observation, even when under a microscope. SCP-020 is only visible to humans when viewed through photographic or video surveillance.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-020/scp020.jpg",
+    "caption": "SCP-020 growths in a civilian residence."
+  },
+  "018": {
+    "id": "SCP-018",
+    "title": "Super Ball",
+    "class": "Euclid",
+    "procedure": "SCP-018 is to be contained in its specialty metal restraint inside of a 1 m by 1 m by 1 m sealed box lined with heavy synthetic padding. The sealed box is then submerged in the center of the 10 m by 10 m by 10 m polyethylene holding tank. If SCP-018 is to break free from the holding box, the polyethylene-based 'goo' will slow down kinetic activity enough for proper retrieval by containment personnel. Personnel entering SCP-018's holding chamber are to wear specialized plating (found inside of SCP-018 Observation), and a breathing apparatus before being lowered into the polyethylene tank. If SCP-018 is loose outside of the polyethylene tank, personnel are advised to secure themselves in a separate room and close doorways or hatches to isolate SCP-018 until containment teams arrive.",
+    "description": "SCP-018 has the appearance of a Super Ball made by the Wham-O company in 1969. It is six (6) centimeters in diameter and coloured red. Found when the ██████████ company was hired to clean out a warehouse that had Wham-O merchandise in it, SCP-018 was noted to be able to bounce with extreme height. At first thought to be a pleasant child's toy, SCP-018 was able to bounce with over two hundred percent (200%) efficiency (that is, if dropped one (1) meter, it would bounce two (2), then four (4), then eight (8), then sixteen (16)). The ball soon became a dangerous projectile, reaching speeds estimated at over 100 km/h and damaging property and injuring five (5) in the city of █████████████. It came to a rest after several days in the nearby lake of ████████, and was retrieved by SCP personnel. Due to the speed of the object, and the total surprise by its victims, no cover-up story was required or initiated.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-018/superball.jpg",
+    "caption": "SCP-018"
+  },
+  "017": {
+    "id": "SCP-017",
+    "title": "Shadow Person",
+    "class": "Keter",
+    "procedure": "SCP-017 is contained in an acrylic glass cage, 100 cm by 50 cm by 50 cm, centrally suspended in a concrete room measuring 6 m by 6 m by 4 m. Attached to the walls, ceiling, and floor of the room are high-intensity arc lamp spotlights pointed directly at the acrylic cage, to ensure that SCP-017 is constantly exposed to light from every angle. Personnel assigned to the SCP-017 control room are to monitor the functionality of the spotlights and the emergency generator system and call for maintenance immediately upon knowledge of a burnt-out lamp or an issue with the generator.",
+    "description": "SCP-017 is a humanoid figure approximately 80 centimeters in height, anatomically similar to a small child, but with no discernible identifying features. SCP-017 seems to be composed of a shadowy, smoke-like shroud. No attempt to find any object beneath the shroud has been successful, but the possibility has not been ruled out.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-017/scp017InCaptivity.jpg",
+    "caption": "File footage of SCP-017"
+  },
+  "019": {
+    "id": "SCP-019",
+    "title": "The Monster Pot",
+    "class": "Keter",
+    "procedure": "SCP-019 is to be kept on a wide grate in a 3 m x 3 m x 4 m reinforced concrete room, installed with an incinerator. Room is to be kept at zero (0) degrees Celsius when incinerator is not activated. An observation chamber separated by a plate glass window is to be used for constant observation of SCP-019, and if/when specimens of SCP-019-2 are observed, the incinerator is to be activated. In the event of an outbreak of SCP-019-2, ordinary firearms are successful in terminating individual specimens, although in the case of a swarm-level outbreak, flamethrowers may be more effective. SCP-019 should be kept in a vertical position at all times.",
+    "description": "SCP-019 appears to be a very large ceramic vase, 1.8 m in diameter at the mouth and 2.4 m high. Style and decoration indicate it was created in Classical Greece, although conclusive dating is impossible, as the surface is entirely unbreakable by any known means. If a successful method is discovered, SCP-019 is to be destroyed with prejudice.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-019/scp-019-new.jpg",
+    "caption": "SCP-019"
+  },
+  "016": {
+    "id": "SCP-016",
+    "title": "Sentient Micro-Organism",
+    "class": "Keter",
+    "procedure": "SCP-016 is to remain within the confines of a five by five by five (5x5x5) meter room at all times, maintained at a temperature not to exceed zero (0) degrees Celsius. SCP-016 itself is to remain in the petri dish in the containment cube at all times unless directed otherwise by Level 4 or O5 personnel. Full documentation of experimentation with SCP-016 must be submitted before and after samples and duplicates of SCP-016 may be taken. Failure to follow these procedures will result in termination or reassignment as Class-D Personnel. Only authorized personnel may be permitted to obtain samples of and experiment with SCP-016 under BC-L5 containment conditions.",
+    "description": "SCP-016 is a blood-borne pathogen recovered from a mine worker in █████ who injured himself while working in a deep coal seam. Said wound became contaminated with coal dust from the mine, possibly infecting the worker with dormant spores. Over the next several days, SCP-016 proceeded to infect the remaining employees at the mining camp, as well as the CDC crisis team dispatched to deal with the epidemic. Foundation personnel then took over the investigation and terminated all affected personnel. Patient Zero was brought into captivity, and the mine shaft was collapsed by an explosive device.",
+    "image": null,
+    "caption": null
+  },
+  "021": {
+    "id": "SCP-021",
+    "title": "Skin Wyrm",
+    "class": "Safe",
+    "procedure": "SCP-021 is an obligate parasite of the human body. Containment, therefore, is no more difficult than containing an adult human; most cells will suffice. Item is currently housed in detention cell 217-A on subject D-139. Only class D personnel are eligible for hosting SCP-021. As long as a given subject survives as a host for SCP-021, he is exempt from normal monthly terminations of class D personnel.",
+    "description": "SCP-021 takes the form of a large and elaborate tattoo of a serpentine dragon in the oriental style, covering approximately 0.8 square meters of skin. This tattoo is fully animate within the confines of its host's skin and behaves largely as a normal animal would, albeit in only two dimensions. The tattoo's movement causes constant pain to its host, comparable and similar in character to simultaneous tattooing and tattoo removal on a large scale. The organism tends to spend most of its time on and near the torso. SCP-021 displays no intelligence beyond a basic pattern of feeding and locomotion, although actually measuring the intelligence of a two-dimensional life-form has proven impossible thus far.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-021/021-new.jpg",
+    "caption": "SCP-021 on subject D-124 (now deceased)"
+  },
+  "022": {
+    "id": "SCP-022",
+    "title": "The Morgue",
+    "class": "Euclid",
+    "procedure": "A vault door has been installed following Incident 022-827 to seal SCP-022. It is to remain locked at all times, with the sole exception being the appearance of an instance of SCP-022-1. The original door to SCP-022 was destroyed during Incident 022-827, with attempts at replacement being met with failure. Security cameras have been installed to monitor for instances of SCP-022-1.",
+    "description": "SCP-022 is a morgue in the basement of [REDACTED] Hospital in Great Britain. Until 198█, there were no reported anomalous occurrences within the morgue. Reports of strange activity were first received in November of 198█. The area was soon quarantined by the Foundation, with an official story being released that the entire building had been condemned. The reason for the sudden manifestation of its strange properties remains under investigation.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-022/SCP-022.png",
+    "caption": "Image of SCP-022 through security camera."
+  },
+  "023": {
+    "id": "SCP-023",
+    "title": "Black Shuck",
+    "class": "Euclid",
+    "procedure": "SCP-023 is to be contained in a standard 5 x 5 m Containment Unit. SCP-023 is to be contained in a walled-off intersection of two (2) corridors at Site ██, with at least three (3) meters of space in each direction, and false doors at three (3) of the four (4) ends, in addition to the real door. Security cameras will be placed and maintained above all four (4) doors.",
+    "description": "SCP-023 is a large, sexless shaggy canine (1.5 meters at the shoulder) with black fur. It has bright orange-red eyes and prominent teeth (see Incident Report 023-26 ). Any time an individual makes eye contact with SCP-023, either that person or a member of their immediate family will die exactly one (1) year after eye contact is broken. Research into the method of selection is incomplete due to a moratorium on experiments, but the available data suggests that having a larger immediate family lessens the chance of the individual making eye contact themselves dying, and neither a pattern nor a preference in victim types have been found. This may indicate that SCP-023's victim is designated entirely at random, but it is unknown whether this selection occurs at the beginning or at the end of the one-year time period. Attempts to terminate an individual who has made eye contact with SCP-023 and their entire immediate family before the one-year time period has ended [DATA EXPUNGED].",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-023/scp-023.png",
+    "caption": "SCP-023, kept in a temporary containment area during a containment breach by SCP-███"
+  },
+  "029": {
+    "id": "SCP-029",
+    "title": "Daughter of Shadows",
+    "class": "Keter",
+    "procedure": "SCP-029 is to be incarcerated in a Class 5 containment cell. She is to be allowed access to nothing of a physical nature. Her containment cell is to be placed behind a triple airlock, to avoid her escape. As of Incident 029-34a, SCP-029 is no longer to be fed, as she does not appear to need sustenance to survive. There are to be three (3) guards on duty at all times on her cell, and two (2) guards on monitor duty.",
+    "description": "SCP-029 appears to be a pubescent female of Asiatic-Indian descent. She appears to suffer from alopecia universalis. Over 80% of her pigmentation is a true black, while the rest of her skin has a complete lack of melanin, to the point of albinism. Her eyes are also a dark black in color.",
+    "image": null,
+    "caption": null
+  },
+  "024": {
+    "id": "SCP-024",
+    "title": "Game Show of Death",
+    "class": "Euclid",
+    "procedure": "Due to its nature, SCP-024 cannot be moved to a secure location so security measures must be placed on-site. To conceal its location, five (5) identical-looking replicas have been erected around SCP-024. A tight security perimeter must be maintained around SCP-024's compound at all times, with separate security teams guarding SCP-024 and its replicas. None of the security teams, except for team leaders, will be informed of the location of SCP-024. SCP-024 must be secured with magnetically sealed blast doors and reinforced, armored walls to prevent unauthorized entry.",
+    "description": "SCP-024 is an abandoned sound stage that was once owned by █████████. However, SCP-024 itself had been abandoned since 19██, and it is unknown whether its special properties manifested before or after its abandonment. SCP-024 is located in the heart of █████████, ██████████, and was initially discovered when a group of teenage youths broke into the abandoned compound. The testimony of the lone \"winner\" when she turned herself in to the police was enough to have Foundation assets mobilize to contain SCP-024.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-024/024.jpg",
+    "caption": "SCP-024 hidden among 5 replicas to conceal its location."
+  },
+  "026": {
+    "id": "SCP-026",
+    "title": "Afterschool Retention",
+    "class": "Euclid",
+    "procedure": "SCP-026 is to remain securely locked and boarded up at all times when there is no research ongoing. Alarms are set to alert the Foundation in case of entry by civilians or other agencies.",
+    "description": "SCP-026 is a three (3) story public school building built in ████. It has two (2) wings connected to a central foyer. It was declared condemned in ████ after it was found the floor plan didn't match up to the building's blueprints (see Interview Log 026-01 ). It came to the Foundation's attention after several disappearances in the area were linked to visits to the abandoned building.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-026/SCP-026-A-new.jpg",
+    "caption": "Main foyer of SCP-026"
+  },
+  "025": {
+    "id": "SCP-025",
+    "title": "A Well-Worn Wardrobe",
+    "class": "Safe",
+    "procedure": "SCP-025 is only to be opened during testing, as is the room in which SCP-025 is stored. Entry codes are to be given only to authorized research and security personnel. No other containment protocols required.",
+    "description": "SCP-025 is a wooden wardrobe measuring 0.97 m x 0.62 m x 1.95 m, full of clothing dating from a number of time periods. Articles contained within the chest, collectively named SCP-025-1, match with styles of decades from the 1920s to the present. The apparel from each time frame varies with regard to style; for example, a polyester striped shirt and pair of charcoal suit pants both correspond with general styles of the 1970s. The only unifying aspect of every article contained in SCP-025 is that each one is in poor condition; moths have eaten at much of the collection, and tears and runs are not uncommon.",
+    "image": "https://scp-wiki.wdfiles.com/local--resized-images/scp-025/025.jpeg/medium.jpg",
+    "caption": null
+  },
+  "027": {
+    "id": "SCP-027",
+    "title": "The Vermin God",
+    "class": "Euclid",
+    "procedure": "The host of SCP-027 (currently subject 027-02) is to be kept in a 5 m x 5 m containment cell with a grated, raised floor connected to a strong vacuum system. All creatures removed from the Subject's containment cell are to be incinerated, except for a small portion to be diverted for analysis and necropsy. The cell is to be cleaned and inspected for structural damage daily.",
+    "description": "SCP-027 appears to be a phenomenon of unknown source that seems to be tied to one human subject (currently 027-02) at a time. As host to SCP-027, subject 027-02 is constantly surrounded by swarming vermin that are drawn to his location. The subject does not appear able to assert control over these creatures in any way, and is in fact prone to occasional attacks from feral specimens. These creatures have also been known to attack personnel who approach too closely.",
+    "image": null,
+    "caption": null
+  },
+  "028": {
+    "id": "SCP-028",
+    "title": "Knowledge",
+    "class": "Safe",
+    "procedure": "No special means are needed to contain at this time, as SCP-028 has not shown any change in size, position or shape during the entire period of its containment, but access must be restricted. Currently, SCP-028 is contained on site (Site █), as SCP-028 is not transportable by any known means. SCP-028 is sealed in a six (6) by six (6) by three (3) meter (twenty (20) by twenty (20) by ten (10) foot) concrete room with a single door, with two (2) armed personnel stationed outside. Only authorized personnel are to be allowed exposure to SCP-028, and extreme care must be taken at all times. While SCP-028 is itself harmless, the effect can be very damaging to the unprepared. (See document EL-028-1125)",
+    "description": "SCP-028 is located in an abandoned storage yard outside a copper mine in northern Michigan. SCP-028 has no detectable physical presence of any kind, but its effect occurs in a 2.1 meter (7 foot) cube around what is commonly held as the “center” of SCP-028. All forms of scanning and testing in the area of SCP-028 have shown no abnormal readings. Adding or removing objects, or attempting to remove dirt from under SCP-028 has no effect in altering the size or shape of SCP-028’s area of effect, nor the onset or quality of the Effect.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-028/scp-028.png",
+    "caption": "SCP-028 before containment"
+  },
+  "030": {
+    "id": "SCP-030",
+    "title": "The Homunculus",
+    "class": "Safe",
+    "procedure": "SCP-030 is to be held at Site-17 within a modified humanoid containment cell. Minor adaptations to accommodate its stature, such as an appropriately-scaled workspace and chair, are to be included. Lighting within the cell may be altered upon request of SCP-030 to a maximum of 2000 lumens via a simple dimmer switch. Should the need to render SCP-030 inert arise, staff may extinguish the lighting from the exterior switch and draw blackout curtains as necessary. Standard night-vision equipment is available for observation of SCP-030 in its inert state.",
+    "description": "SCP-030 appears as a hairless, genderless, grey-toned human 71 centimeters (28 inches) in height and weighing 12.70 kilograms (two British stone in antiquated measure). Its solid blue eyes lack discernible irises or pupils, and resemble small cut sapphires. SCP-030 possesses an androgynous voice with a pronounced English accent not currently identifiable as specific to any modern region. It is able to converse, read and write in Ancient Greek, Latin, Italian, English, Spanish and Portuguese as well as two (2) additional languages that have not yet been identified despite SCP-030's insistence that they should be \"common knowledge.\" SCP-030 has also demonstrated knowledge of physics, chemistry, astronomy, mathematics and horticulture roughly equivalent to that of a 17th-century CE academic. In addition, SCP-030 has demonstrated knowledge on these topics along research lines that do not appear in the historical record. These alternative or entirely unknown approaches to research in the natural sciences are one source of SCP-030's utility in consultation.",
+    "image": null,
+    "caption": null
+  },
+  "031": {
+    "id": "SCP-031",
+    "title": "What is Love?",
+    "class": "Euclid",
+    "procedure": "SCP-031 is currently contained in the Ryugyong Hotel, located in the city of Pyongyang, Democratic People's Republic of Korea 1 . As the nation it is located in is currently governed by an authoritarian regime with near-complete control of state and national media, the possibility of information regarding SCP-031 being released to the world at large is minimal. As said regime is also cooperating with the Foundation in order to maintain physical security of the site, Foundation personnel are instructed to comply with their directives, so long as they do not interfere with larger Foundation aims.",
+    "description": "SCP-031 is an amorphous organism with a mass of over 7,500 kg that has infiltrated the ductwork and maintenance infrastructure of the building. Tendrils emerging from SCP-031's central mass have spread through the hotel's plumbing and ductwork to all 105 floors of the building. At its peak, over 75% of the hotel's 3,000 rooms were contaminated by SCP-031. Reclamation efforts have destroyed ██% of the initial infestation, but over ███ rooms remain affected by SCP-031.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-031/scp-031rev.jpg",
+    "caption": "The Ryugyong Hotel, located in Pyongyang, Democratic People's Republic of Korea."
+  },
+  "032": {
+    "id": "SCP-032",
+    "title": "Brothers' Bride",
+    "class": "Euclid",
+    "procedure": "SCP-032 is to be housed in Automated Containment Unit 535/15. Direct contact with SCP-032 is to be restricted to research-relevant tasks only. Interviews, if deemed necessary, are to be carried out using the Unit's remote communication array. While SCP-032's presence is not directly harmful to the human body, exposure to it is to be limited to periods of 12 hours or less due to its adverse effects on most beneficial microorganisms. SCP-032 is not to be exposed to any biological material not refined or otherwise tempered by humanity, with an emphasis on non-human living entities. For full list of classifications, see Document-032-RCL. SCP-032 neither requires nor requested substances or other forms of comfort.",
+    "description": "SCP-032 is a Type-F (imperfect external resemblance, internally inconsistent) human simulacrum of currently unknown origins. It is composed of an outer shell of pigmented silicone (5.5 mm thick), and various plastic fiber polymers, with the outward appearance of a Caucasian woman nearing the third decade of life. SCP-032's interior is composed entirely of liquid refined oil, lacking any skeletal or muscle structure. Despite this, SCP-032 is capable of locomotion and speech. SCP-032 is capable of maintaining the illusion of humanity at a moderate distance, but becomes unconvincing at a closer range, causing mild discomfort in most observers. This effect has been deemed non-anomalous. Despite apparently possessing fully-realized cognitive abilities, SCP-032 claims that it is not sapient, acting only as an intermediary instrument of its creators. The Foundation has not been able to verify or refute this claim as of yet.",
+    "image": null,
+    "caption": null
+  },
+  "033": {
+    "id": "SCP-033",
+    "title": "The Missing Number",
+    "class": "Euclid",
+    "procedure": "SCP-033 should be inscribed on any single sheet of irregularly-shaped and hand-crafted paper, papyrus, canvas or vellum when not involved in active observation or study. The dimensions of the paper-like product should have no parallel borders, no right angles, and no side's length should be equal to any other (033-Safe dimensions). When contained in this manner, the paper-like product should be secured in a locked non-combination storage vault at least 30 meters from any computing or recording device. Logs for check-out or check-in of SCP-033 should be filled out at the minimum safe distance of 30 meters to avoid possible contamination of the paper product or electronic device the log is kept in.",
+    "description": "SCP-033 appears as a field of complex mathematical symbols ranging from simple layman-identifiable representations to those only interpretable by highly-trained mathematicians. The \"sum\" of the symbols is equal to a previously unknown integer (designated Theta Prime by Prof. Hutchinson) of intermediate value between █ and █.",
+    "image": null,
+    "caption": null
+  },
+  "034": {
+    "id": "SCP-034",
+    "title": "Obsidian Ritual Knife",
+    "class": "Safe",
+    "procedure": "SCP-034 is to be kept in a secure room with access granted only to Level 4 personnel. SCP-034 itself will be kept in a locked case that is under 24-hour surveillance. When not in lab conditions, SCP-034's protective sheath cannot be removed under any circumstances. Any personnel in contact with SCP-034 must be placed under a 24-hour observation period until their identities can be confirmed.",
+    "description": "SCP-034 is a primitive knife constructed out of pure obsidian. Tests reveal that SCP-034 is approximately 1000 years old. Despite its crude method of construction and age, SCP-034 is still incredibly sharp and requires no maintenance to retain its edge. Expert analysis hypothesizes that SCP-034 may be of South American origin, and that it may have been used in Native American rituals. Several accounts from Spanish conquistadors exploring the █████████ region support this hypothesis, with detailed writings on how █████ priests would flay their victims alive with similar knives and wear their skin as a tribute to their gods.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-034/blade.jpg",
+    "caption": "SCP-034"
+  },
+  "037": {
+    "id": "SCP-037",
+    "title": "Dwarf Star",
+    "class": "Euclid",
+    "procedure": "",
+    "description": "SCP-037 appears to be a star approximately 5 cm (2 in) in diameter, with a luminosity of about 1*10 -12 times that of our sun and a surface temperature of about 5000 K (determined by UBVRI analysis). The origin of SCP-037 is unknown, however, analysis suggests that it shares many properties in common with a typical main sequence star, other than its anomalously small size. It is theorized to have entered the Earth's magnetosphere via the North Magnetic Pole.",
+    "image": null,
+    "caption": null
+  },
+  "038": {
+    "id": "SCP-038",
+    "title": "The Everything Tree",
+    "class": "Safe",
+    "procedure": "",
+    "description": "SCP-038 was found on an abandoned farm in █████████████, New York, in 19██. It was at first thought to be a common apple tree. However, upon closer inspection, it became apparent that SCP-038 was growing things other than apples and, in fact, other than fruit.",
+    "image": null,
+    "caption": null
+  },
+  "035": {
+    "id": "SCP-035",
+    "title": "Possessive Mask",
+    "class": "Keter",
+    "procedure": "SCP-035 is to be kept within a hermetically sealed glass case, no fewer than 10 centimeters (4 inches) thick. This case is to be contained within a steel, iron and lead-shielded room at all times. Doors are to be triple-locked at all times, with the exception of allowing personnel in or out. No fewer than two (2) armed guards are to be posted at any time. Guards must remain outside at all times and are not allowed within the containment room under any circumstances. A trained psychologist is to remain on site at all times. Research personnel are not to touch SCP-035 at any time. SCP-035 must be moved to a new sealed case every two (2) weeks. The previous case must be disposed of via SCP-101 , as it shows no adverse reactions to SCP-035's “corruption”. Anyone who comes into contact with SCP-035 when it is in possession of a host is to be given an immediate psychological evaluation.",
+    "description": "SCP-035 appears to be a white porcelain comedy mask, although, at times, it will change to tragedy. In these events, all existing visual records, such as photographs, video footage, even illustrations, of SCP-035 automatically change to reflect its new appearance.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-035/scp--035--002-new.gif",
+    "caption": "Depiction of SCP-035 without its ever-present secretions"
+  },
+  "036": {
+    "id": "SCP-036",
+    "title": "The Reincarnation Pilgrimage of the Yazidi (Kiras Guhorîn)",
+    "class": "Safe",
+    "procedure": "Once every year, a mobile task force is dispatched from Containment Command-02 in [EXPUNGED] to Site-22A to defend the runway and airport located there. The civilian facility is to be cleared of all non-SCP personnel by 0400 hours of September 23 and none are allowed to return until sunrise the next day. On October 1, all civilians must be evacuated again before sunrise and will not be allowed on to Site-22A until the return of the \"Pilgrimage flight.\"",
+    "description": "SCP-036 includes the location, Site-22A (a small airport in the Mosul region of northern Iraq) and Site-22B (the destination of passengers boarding at Site-22A). The key components of SCP-036 are:",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-036/SCP-036-1.jpg",
+    "caption": null
+  },
+  "041": {
+    "id": "SCP-041",
+    "title": "Thought-Broadcasting Patient",
+    "class": "Safe",
+    "procedure": "SCP-041 is to be hospitalized at Bio-Research Area 12. Though not Keter class, should SCP-041's abilities ever propagate beyond a reasonably containable area, the risk of SCP sensitive information being broadcast to the public remains too great a risk and warrants Area-Level isolation away from the general populace. SCP personnel wanting to keep their thoughts private are advised to remain outside of a fifteen (15) meter radius from SCP-041, beyond the designated red circle on the floor.",
+    "description": "SCP-041 is a male human suffering from irreversible damage to his central nervous system, which is believed to have been caused by an infection of a rare strain of bacterial meningitis. Although antibiotics were successful in clearing the infection, the membranes surrounding his brain and spinal cord had reacted to the infection by severing many neurons connecting the central nervous system to the rest of the body. SCP-041 must rely on a respirator to sustain his breathing, a biventricular pacemaker to keep his heart beating, and a naso-gastric tube to provide nutrition.",
+    "image": null,
+    "caption": null
+  },
+  "040": {
+    "id": "SCP-040",
+    "title": "Evolution's Child",
+    "class": "Anomalous Human",
+    "procedure": "SCP-040-1a, 1c, and 1j have been approved to remain in the containment chamber with SCP-040 for purposes of the subject’s mental well-being. (Security Chief Special Order 392-5: ██/██/██). All other entities modified by SCP-040 during testing are to be disposed of after study according to standard biological specimen clearance protocols, as outlined in Document CDP-BIO-EN-1.",
+    "description": "SCP-040 is a human child capable of at-will manipulation of the physical characteristics of living organisms. Modified organisms are collectively referred to as SCP-040-1.",
+    "image": null,
+    "caption": null
+  },
+  "039": {
+    "id": "SCP-039",
+    "title": "Monkey Brain",
+    "class": null,
+    "procedure": "Living SCP-039 instances are to be contained in Site-77 's Wilderness Observation Chamber-2B. The interior and exterior of WOC-2B must be monitored by 2 security guards at all times. WOC-2 is to be inspected weekly for sabotage and contraband .",
+    "description": "SCP-039 consists of twenty-three proboscis monkeys ( Nasalis larvatus ) which have been subject to radical anatomical changes. These alterations are summarized below:",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-039/monkey-new.jpg",
+    "caption": "A male SCP-039 instance."
+  },
+  "042": {
+    "id": "SCP-042",
+    "title": "A Formerly Winged Horse",
+    "class": "Safe",
+    "procedure": "SCP-042 is currently housed within Minimum Security Paddock 12 at Bio-Research Area-32. Despite SCP-042's seeming disinclination to attempt escape at this point, security measures must still be maintained at all times. Previous attempts to maintain the health of the groundcover in Paddock 12 have failed to date. Despite regular watering, SCP-042's presence leaves the ground parched wherever it treads. As it has not been determined what happens to added water, the program of watering has been discontinued as unnecessary and potentially hazardous to the local water table. Monitoring of local well levels and sampling of the area's water is to be carried out on a weekly basis.",
+    "description": "SCP-042 is an animal believed to be a member of the genus Equus . Its coat is white in color with some small brown spotting. It stands at 183 cm (18 hands) to its withers and weighs 710 kg. Its weight has dropped significantly since it has been in Foundation custody, due to both atrophy from lack of physical activity and refusal to eat. The liquid nutrient diet forcibly administered keeps it alive but it remains emaciated and weak. SCP-042 exhibits two large bone protrusions from its back, linked to powerful musculature (now atrophied) throughout its back. These bones end at 37 centimeters from the surface of its back, and they protrude from the skin at open, ragged wounds. To date, no healing has been observed of these wounds, though some clotting must be taking place for SCP-042 to have not bled out.",
+    "image": "http://scp-wiki.wdfiles.com/local--files/scp-042/SCP-042-new.jpg",
+    "caption": "SCP-042 being made to stand through the use of electrified fence wire"
+  },
+  "043": {
+    "id": "SCP-043",
+    "title": "The Beatle",
+    "class": "Safe",
+    "procedure": "SCP-043 requires no special containment, although it is recommended that SCP-043 not be used for purposes other than testing. A turntable is to be maintained in the same room for testing.",
+    "description": "SCP-043 appears to be a vinyl copy of \"The White Album\" by the Beatles; however, upon closer inspection, the record has no grooves. In spite of this, the record will play from start to finish regardless of the starting position of the needle.",
+    "image": "http://scp-wiki.wdfiles.com/local--files/scp-043/whitealbum-new.jpg",
+    "caption": "SCP-043, inside its sleeve."
+  },
+  "044": {
+    "id": "SCP-044",
+    "title": "World War II Era Molecular-Fission Cannon",
+    "class": "Safe",
+    "procedure": "A constant stream of hydrogen ions, unbound oxygen atoms, and other trace free radicals emanate from the muzzle of SCP-044 at all times. Because of this, the docking stations of SCP-044 are to be well-ventilated to keep dangerous gases and moisture from accumulating. Muzzle coverings are to be fitted at all times to keep birds and small animals from investigating the large open barrel of SCP-044.",
+    "description": "SCP-044 is a howitzer, secretly manufactured in the late stages of the Second World War by Krupp engineers, personally supervised by Albert Speer, German Minister of Armaments and War Production under Adolf Hitler. SCP-044 is unique not only because of its size (251,000 kg, or 251 metric tonnes), but also because it fires unconventional artillery using an atypical delivery method. Rather than having a breech for loading shells, the rear of the barrel is configured into a massive air-compression chamber. Any object or pile of objects that fits may be loaded into SCP-044’s muzzle to be used as ammunition. Because of its size, SCP-044 must remain rail-mounted and requires two freight locomotives to move.",
+    "image": "http://scp-wiki.wdfiles.com/local--files/scp-044/SCP-44.jpg",
+    "caption": "Image capture of SCP-044 during an experiment titled \"Upshot Knolte Ford Grable\""
+  },
+  "045": {
+    "id": "SCP-045",
+    "title": "Atmospheric Converter",
+    "class": "Safe",
+    "procedure": "SCP-045 is to be kept affixed to an examination platform in a hemispherical chamber measuring 5 meters in radius at Oceanographic Research Station 12, located at -██.██, -███.██ on the seafloor of the Pacific Ocean. The chamber is to be kept filled with gaseous neon at equilibrium pressure with the surrounding environment. The chamber is separated from habitable portions of the station by 5 meters of local seawater, and all interactions with SCP-045 are to be performed via telepresence or robotic means. The bindings that attach SCP-045 to its platform are fitted with quick-release latches, which are to be released when necessary to prevent a containment breach.",
+    "description": "SCP-045 is an icosahedron composed of ice XII 1 heavily occluded with planar fractures in a regular, complex pattern. SCP-045 has an average radius of 1.7 meters and density of 2.6 g/cm³, which is approximately twice that of non-anomalous ice XII.",
+    "image": null,
+    "caption": null
+  },
+  "047": {
+    "id": "SCP-047",
+    "title": "Microbial Mutagen",
+    "class": "Keter",
+    "procedure": "SCP-047 is to be contained in a 0.5 m x 0.5 m x 1 m hermetically sealed storage box at all times. This box is to be locked in storage locker 047a, inside P3-secure biohazard lab 047b. Any entrance to and activity inside 047b will be recorded by biometric scan, closed circuit camera, and [REDACTED].",
+    "description": "SCP-047 is a heavily rusted, breached gas cylinder made of an iron-[REDACTED] alloy. When exposed to open air, the material of the cylinder evaporates slowly, producing a previously undocumented mutagenic gas. This gas has no effect on eukaryotic organisms (e.g. humans), but profoundly alters prokaryotes, showing preference for common human microbiota - the natural microorganisms that live on the skin and throughout the body. On rare occasions these mutations produce a \"superbug\" (collectively known as SCP-047-1), a natural commensal with enhanced survivability and therefore opportunistic pathogenicity. The pattern of changes induced by SCP-047 suggests that these highly infectious microbes are, at least to some degree, selected for.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-047/047.png",
+    "caption": "SCP-047in situbefore recovery from Site-██ Secure Laboratory after a containment breach."
+  },
+  "046": {
+    "id": "SCP-046",
+    "title": "\"Predatory\" Holly Bush",
+    "class": "Euclid",
+    "procedure": "The land surrounding SCP-046 has been purchased and surrounded by multiple layers of security, including fencing, barricades, and lethal-effect traps; multiple signs marking the area as private property are to be prominently displayed. The area is to be heavily guarded at all times to prevent access by civilians to SCP-046. All personnel working around or within a 50km radius of SCP-046 are to undergo rigorous medical testing to ensure the absence of any potentially life-threatening illnesses; additionally, increased mental health examinations are to be administered to ensure that no personnel inclined or potentially inclined towards self-harm or self-destructive tendencies are allowed within the 50km radius. Any injured personnel are to be evacuated to a hospital outside of the 50km zone around SCP-046. All vegetation surrounding SCP-046 is to be destroyed and all animals attempting to access SCP-046 are to be terminated and destroyed before reaching its outer perimeter.",
+    "description": "SCP-046 is a predatory botanical mass located in southwestern Kentucky. SCP-046 is composed of two parts. SCP-046-1 is a large mass of vegetative matter, composed largely of plants indigenous to the region, including Quercus alba, Ilex aquifolium, and Lonicera sempervirens, though several offshoots composed of other plant species are also present. SCP-046-2 is the land in the immediate vicinity of SCP-046-1, extending to a roughly circular area twenty meters in radius from its base. This area is SCP-046's primary feeding area. SCP-046 is capable of attracting prey within a 50km radius through hallucinogenic means; all evacuations of personnel should carry them outside of this radius to disable SCP-046's effect.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-046/46-1.jpg",
+    "caption": "Separate offshoot of SCP-046, composed principally of members of genusPteridium."
+  },
+  "050": {
+    "id": "SCP-050",
+    "title": "To The Cleverest",
+    "class": "Euclid",
+    "procedure": "So far, all attempts to contain SCP-050 have proven fruitless 1 . At present, whoever has possession of SCP-050 is to leave it in an office they use with regularity 2 .",
+    "description": "SCP-050 appears to be a statue of a monkey reading a book, approximately 1 foot 3 tall. On the bottom of the statue are engraved the words \"To The Cleverest\" in cursive script.",
+    "image": null,
+    "caption": null
+  },
+  "051": {
+    "id": "SCP-051",
+    "title": "Japanese Obstetrical Model",
+    "class": "Safe",
+    "procedure": "SCP-051 and SCP-051-A are to be kept in a sealed containment facility. SCP-051-A is kept within a locked, climate-controlled document box with a viewing window, to prevent degradation of its material. Any personnel (with the exception of pregnant or non-sterile female personnel, who might not be aware of an early-stage pregnancy) may access SCP-051 as long as a request is placed before-hand and cleared by site administration.",
+    "description": "SCP-051 is a 25 cm (10 in) anatomically correct model of a human female, carved out of ivory, with typically Asian features. Microscopic analysis shows that the head hair is human hair. The doll is jointed at the shoulders, hips, and knees. The 'stomach' area of the doll is fully removable as a 'cap' of ivory, exposing a detailed ribcage and organs, and a 2.5 cm (1 in) ivory fetus connected to the main figure by a leather cord umbilicus.",
+    "image": null,
+    "caption": null
+  },
+  "048": {
+    "id": "SCP-048",
+    "title": "The Cursed SCP Number",
+    "class": "None (see description)",
+    "procedure": "The designation SCP-048 is to be retired from the SCP catalog. No future SCPs are to be assigned this number.",
+    "description": "SCP-048 has long been considered the \"cursed SCP number\" by SCP staff: any items given this designation tend to be destroyed, decommissioned, stolen, or otherwise lost to the Foundation, usually through no fault of any individual person. In addition, personnel assigned to SCP-048 in its various incarnations have had a 50% higher rate of turnover due to death, dismemberment, and disciplinary action.",
+    "image": null,
+    "caption": null
+  },
+  "049": {
+    "id": "SCP-049",
+    "title": "Plague Doctor",
+    "class": "Euclid",
+    "procedure": "SCP-049 is contained within a Standard Secure Humanoid Containment Cell in Research Sector-02 at Site-19. SCP-049 must be sedated before any attempts to transport it. During transport, SCP-049 must be secured within a Class III Humanoid Restriction Harness (including a locking collar and extension restraints) and monitored by no fewer than two armed guards.",
+    "description": "SCP-049 is a humanoid entity, roughly 1.9 meters in height, which bears the appearance of a medieval plague doctor. While SCP-049 appears to be wearing the thick robes and the ceramic mask indicative of that profession, the garments instead seem to have grown out of SCP-049's body over time 1 , and are now nearly indistinguishable from whatever form is beneath them. X-rays indicate that despite this, SCP-049 does have a humanoid skeletal structure beneath its outer layer.",
+    "image": "https://www.wikidot.com/avatar.php?userid=1888434&amp;size=small&amp;timestamp=1764830970",
+    "caption": null
+  },
+  "053": {
+    "id": "SCP-053",
+    "title": "Young Girl",
+    "class": "Euclid",
+    "procedure": "SCP-053 is to be contained in an area no less than 5 m x 5 m (16 ft x 16 ft) and given adequate room to move. Toys, books, games, and other recreational devices are to be amply provided and rotated every three (3) months. Proper bedding, bathroom, and medical facilities are to be maintained at all times. Food should be provided three (3) times daily, and two (2) snacks are allowed if requested.",
+    "description": "SCP-053 appears to be a small 3-year-old girl. She is capable of basic speech and appears to be slightly above average in mental development. She has a generally pleasant personality and rarely seems upset, becoming agitated only in the presence of groups of people.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-053/SCP-0053.jpg",
+    "caption": "SCP-053"
+  },
+  "052": {
+    "id": "SCP-052",
+    "title": "Time-Traveling Train",
+    "class": "Euclid",
+    "procedure": "Although it is not possible to remove SCP-052 from the New York City subway system, its predictable behavior allows the Foundation to prevent the public from encountering it. The 59th St. A/B/C/D Station is to be closed to the public from 11pm-1am on Saturdays/Sundays under the pretext of “track maintenance.” During that time, the station is to be staffed with agents from Mobile Task Force Gamma-6. Agents have been ordered to prevent accidental public access to the station, and to capture anyone seen leaving SCP-052. Anyone who has been on SCP-052 must be transported to Site-21 for debriefing and processing. Members of the public who see SCP-052 may be released after the administration of a Class B amnestic.",
+    "description": "SCP-052 is a type R4 New York City subway train. Official records indicate this train was built in 1932 and decommissioned for scrap in 1975. Nevertheless, it continues to appear on the Uptown A/D track at the 59th St. and 8th Avenue station at 11:57 p.m. every Saturday. The train is in perfect condition and labeled as an “A” train. SCP-052 appears at the designated time, opens its doors to accept/discharge passengers for approximately five minutes, then closes its doors and disappears. It does not appear to ever contain passengers, except for those leaving the train during its appearance.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-052/scp-052.png",
+    "caption": "SCP-052"
+  },
+  "054": {
+    "id": "SCP-054",
+    "title": "Water Nymph",
+    "class": "Safe",
+    "procedure": "Subject is held in a watertight isolation room outfitted with specialized climate control equipment. An ornate fountain filled with water stands in the center of the enclosure. Maintenance personnel are required to wear NBC suits while inside the containment area and must spend ten minutes in a special drying room after exiting. In the event of a breach, the surrounding area should be evacuated and the enclosure flushed with liquid nitrogen.",
+    "description": "Out of the water, the subject most often appears as a female humanoid with a mean volume of 90 L comprised entirely of water (other forms are possible, commonly geometric shapes). When it enters a body of water, it becomes indistinguishable from its surroundings. The subject must periodically return to a body of water in order to maintain its volume due to evaporation. Initially found in ████████, it was moved to Site-08 for further study. Subject was initially curious about Foundation personnel and seemed to enjoy interacting with maintenance staff and researchers, and mimicking their forms. After a number of weeks, the creature apparently felt comfortable enough to remain out of the water during routine monitoring, though it retreated when attempts were made to study its composition.",
+    "image": null,
+    "caption": null
+  },
+  "055": {
+    "id": "SCP-055",
+    "title": "[unknown]",
+    "class": "Keter",
+    "procedure": "Object is kept within a five (5) by five (5) by two point five (2.5) meter square room constructed of cement (fifty (50) centimeter thickness), with a Faraday cage surrounding the cement walls. Access is via a heavy containment door measuring two (2) by two point five (2.5) meters constructed on bearings to ensure door closes and locks automatically unless held open deliberately. Security guards are NOT to be posted outside SCP-055's room. It is further advised that all personnel maintaining or studying other SCP objects in the vicinity try to maintain a distance of at least fifty (50) meters from the geometric center of the room, as long as this is reasonably practical.",
+    "description": "SCP-055 is a \"self-keeping secret\" or \"anti-meme\". Information about SCP-055's physical appearance as well as its nature, behavior, and origins is self-classifying. To clarify:",
+    "image": null,
+    "caption": null
+  },
+  "056": {
+    "id": "SCP-056",
+    "title": "A Beautiful Person",
+    "class": "Euclid",
+    "procedure": "SCP-056 is to be kept in a room of its choosing, with whatever furnishings it expresses desire for. Level 1 personnel and above may interact with SCP-056 at any time they choose, for a time length not exceeding two hours. The subject is to be guarded by a minimum of three (3) security staff at all times, with shift changes every four hours. Each guard is to be armed with non-lethal tranquilizer pistols, loaded with no less than fifteen hundred (1500) microliters of cyclopyrrolone tranquilizer. Any irregularities in personnel and staff developed by extended exposure to SCP-056 will result in psychological examination and relocation to site [DATA EXPUNGED].",
+    "description": "SCP-056 is a being of variable size, gender, and appearance, which changes in response to the environment around it, especially in regards to living and sentient beings. Its most common form is of a handsome man in his middle twenties, dressed in a garb of similar appearance to that of the personnel guarding it but of a higher quality and aesthetic value. However, it has been recorded as taking these forms:",
+    "image": null,
+    "caption": null
+  },
+  "057": {
+    "id": "SCP-057",
+    "title": "The Daily Grind",
+    "class": "Safe",
+    "procedure": "Site-57 has been constructed to facilitate SCP-057 as relocation is not feasible. It is highly improbable that any outside knowledge of the artifact exists based on the circumstances of its discovery and thus security is of minimal concern. No containment procedures are required other than the prevention of unauthorized access. All research will be delegated to Dr. Lewis and Dr. Walston unless further specified.",
+    "description": "SCP-057 is a subterranean chamber with an approximate cylindrical height of three (3) meters and diameter of eighteen (18) meters. Artifact is comprised of impenetrable slate-coloured stone. Inside the chamber are dozens of parallelepiped monoliths extending from floor to ceiling that slide in various directions while SCP-057 is active. It was discovered several meters below █████ on ██/██/████ during the construction of a secure containment enclosure for SCP-███. Consequently, SCP-███ was assigned an alternate location at Site-██.",
+    "image": null,
+    "caption": null
+  },
+  "058": {
+    "id": "SCP-058",
+    "title": "Heart of Darkness",
+    "class": "Keter",
+    "procedure": "SCP-058 is to be kept in isolation in a 5 m by 5 m by 5 m containment chamber at all times. Walls are to be constructed of 3 m (10 ft) of reinforced heat-resistant steel, backed with a further 10 m (33 ft) of reinforced concrete. SCP-058 is to be fed a live cow every three days. Maintenance is to be conducted every sixty (60) minutes while SCP-058 is dormant and every fifteen (15) minutes when SCP-058 is active. Under no circumstances is SCP-058 to be allowed out of its containment area. SCP-058 is to be audio recorded at all times. No personnel are to listen to SCP-058 for more than thirty (30) minutes at a time. In case of escape, facility is to be considered compromised and detonation of on-site nuclear weaponry is to commence. To date, SCP-058 has been responsible for the death of at least one hundred and forty-nine (149) Class-D personnel and fourteen (14) Agents at its current site.",
+    "description": "SCP-058 resembles a bovine heart, with four (4) arthropod-like legs used primarily for movement, and four (4) tentacles of adjustable length, covered with razor sharp spines. It has a single sharp 'stinger' on its rear, where the hole for the superior vena cava would be in a typical organ. SCP-058's tentacles can be \"whipped\" to a distance of 3.2 m (10.5 ft) at speeds in excess of 320 km/h (200 mph). SCP-058 is extremely hostile and will use every opportunity afforded to it to inflict damage on its surroundings. SCP-058 has been shown to be highly resilient to trauma, and should be approached with caution even when apparently incapacitated.",
+    "image": null,
+    "caption": null
+  },
+  "061": {
+    "id": "SCP-061",
+    "title": "Auditory Mind Control",
+    "class": "Safe",
+    "procedure": "The source code for SCP-061 is to be kept on a standard archival-quality read-only data compact disc (CD-ROM); four copies of the CD-ROM with the source code are to be stored in separate maximum-security inanimate-object lockers. Except for purposes of approved experimentation, SCP-061 is not to be loaded, compiled, or run. Research proposals for SCP-061 require written approval from site command. Only one copy of the CD-ROM containing the source code for SCP-061 may be used at a time; the CD-ROM is to be returned to storage immediately after having been used to load the source code for SCP-061 to a device.",
+    "description": "SCP-061 is an acoustic computer program being developed by SCP researchers with the intent of producing successful countermeasures to similar programs being developed by governments and individuals around the world. Inspired by research on [DATA EXPUNGED], SCP Command saw both the potential and harm in the ability to control the brain functions of other human beings. Laymen understand that music can elicit certain emotions and memories or various sounds can elicit fear and excitement by simply being heard. Governments around the world have been attempting to expand on that premise for decades; SCP Research is the first to elicit responses on higher mental activities.",
+    "image": null,
+    "caption": null
+  },
+  "059": {
+    "id": "SCP-059",
+    "title": "Radioactive Mineral",
+    "class": "Keter",
+    "procedure": "A single specimen of SCP-059 is kept at Site-11B inside a graded-Z laminate shielding box composed of depleted uranium, tantalum, tin, steel, copper, and aluminum. Surrounding SCP-059’s containment box is a 7 x 7 x 7 m area sealed as a Level-4 Biohazard area, and surrounded by 3 cm of lead shielding. This area is to be sprayed daily with a solution of methyl isothiocyanate to prevent overgrowth of SCP-059-1.",
+    "description": "SCP-059 is a radioactive mineral of unknown origin, superficially resembling scheelite. A component of SCP-059 is believed to originate in an alternate universe, and to be responsible for its anomalous properties. In addition to alpha, beta, and gamma radiation, SCP-059 specimens produce a previously unknown type of radiation, apparently unique to the object, tentatively designated 'delta radiation'. Delta radiation is accompanied by Cherenkov radiation, visible as a blue glow.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-059/bluerock1.png",
+    "caption": "Example of SCP-059"
+  },
+  "060": {
+    "id": "SCP-060",
+    "title": "Infernal Occult Skeleton",
+    "class": "Keter",
+    "procedure": "The grove which contains SCP-060 is currently contained in a series of specially-constructed greenhouses at Satellite-Site 66-060. Specimens are to be pruned regularly to keep at a manageable size.",
+    "description": "SCP-060 is a grove of seventeen white oak trees ( Quercus alba ). The grove is spread across approximately 8 acres in rural northeastern Minnesota. A house on the property was demolished during the construction of Satellite-Site 66-060 after being combed by Foundation personnel for information regarding SCP-060. See addendum.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-060/not-firewood-small.jpg",
+    "caption": "SCP-060 instance in its grove."
+  },
+  "062": {
+    "id": "SCP-062",
+    "title": "\"Quantum\" Computer",
+    "class": "Euclid",
+    "procedure": "SCP-062 is stored in a dedicated containment cell at Site ██ under clean room conditions. Any experimentation on SCP-062 must receive prior permission from at least two (2) Level 3 Personnel, and must only be performed with independent power sources. SCP-062 must never be attached to an external network, and all data extracted from SCP-062 is to be stored on external nonvolatile media until analyzed.",
+    "description": "SCP-062 appears to be an unbranded personal desktop computer housed in an aluminum case of indeterminate manufacture. SCP-062 is unusually heavy at approximately 24kg, and lacks manufacturing or branding labels of any kind. The words \"infomation is freedom [sic]\" were found scratched into the casing near the back, apparently with a key or similar object.",
+    "image": null,
+    "caption": null
+  },
+  "063": {
+    "id": "SCP-063",
+    "title": "\"The World's Best TothBrush\"",
+    "class": "Safe",
+    "procedure": "SCP-063 is to be kept at all times within Dr. ████'s personal bathroom, located within the personnel quarters upon Site 19. Object is to be used as designed at least once in a twenty-four (24) hour period or the object will begin to emit an unknown specialized radiation that results in objects and material within a 0.6 m (2 ft) radius being slowly warped and eventually disintegrating into a fine dust. Radiation's effect on living test subjects has not been monitored.",
+    "description": "SCP-063 appears to be an average, pale blue toothbrush. Stenciled along the side of the object are the words “The World's Best TothBrush [sic]”. The word \"toothbrush\" is spelled incorrectly, though whether this was accidental or a purposeful action by the creators of the object is unknown. SCP-063 displays the ability to effortlessly cleave through any and all dead or inorganic matter, the focal point of this ability being the bristles. However, matter touched by the bristles is not separated, such as by way of a knife, but completely expunged from existence, leaving no trace whatsoever. This mode of operation is reminiscent of SCP-2207 , suggesting the two anomalies share a connection or were created by the same entity or entities. Additionally, subjects who have used SCP-063 have claimed that the experience left their teeth feeling remarkably clean. In spite of its extraordinary abilities, lab analysis has discerned that SCP-063 is completely made of common plastic.",
+    "image": null,
+    "caption": null
+  },
+  "064": {
+    "id": "SCP-064",
+    "title": "Flawed von Neumann Structure",
+    "class": "Safe",
+    "procedure": "SCP-064 is to be kept in a suitably remote area for observation. Current goals are to generate a geometric model of the object's behavioral pattern and to observe any changes in this pattern due to location and soil composition. Certain sites in the Gobi Desert and Australian Outback, as well as a number of salt flats scattered around the globe, are under consideration for future testing. SCP-064's current location is classified to all personnel under security clearance Level 3. Once growth has stopped, field teams are to document the structure's size, shape and composition and remove the object for transport to a new site.",
+    "description": "SCP-064 is a light brown earthenware brick composed primarily of silicon oxides and some organic matter. The object weighs 1.6 kg and measures some 10 cm x 6 cm x 20 cm. Its surface is smooth and flat, with some minor cosmetic chips. By and large, the object is visually similar to most solid bricks used in construction.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-064/SCP-064.png",
+    "caption": "SCP-064"
+  },
+  "065": {
+    "id": "SCP-065",
+    "title": "Destroyed Organic Catalyst",
+    "class": "Euclid",
+    "procedure": "As SCP-065 cannot be moved, it has been contained on-site and Site ██ has been established around it. Site ██ has been marked as a government research facility off limits to civilians, and unauthorized individuals attempting to gain access to the area are to be detained, questioned, and administered a Class A amnestic if deemed necessary by site security.",
+    "description": "SCP-065 is a spherical region of space approximately 12 m in radius located on a farm near [REDACTED]. SCP-065 was formed by the destruction of an anomalous artifact on-site by the Global Occult Coalition on ██/█/██; immediately following this initial event, the radius of SCP-065 was estimated to have initially expanded to 108 m in radius, resulting in the deaths of eleven (11) GOC operatives and five (5) civilians. Since containment by the Foundation, the effective radius of SCP-065 has shrunk to and remained stable at its current size.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-065/065.png",
+    "caption": "A photograph of SCP-065 exhibiting visual distortion"
+  },
+  "066": {
+    "id": "SCP-066",
+    "title": "Eric's Toy",
+    "class": "Safe-prodest Euclid-impetus",
+    "procedure": "SCP-066 is to be kept in a safe-deposit box at Site 21. Personnel Level 2 or higher may perform experiments on SCP-066 after filing the relevant request forms. Researchers may log their results in Experiment Log 066-Beta.",
+    "description": "SCP-066 is an amorphous mass of braided yarn and ribbon weighing approximately one kilogram. Strands of SCP-066 may be taken individually and manipulated; when this is done, a note on the diatonic scale (C-D-E-F-G-A-B) is produced by the object.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-066/yarn1.jpg",
+    "caption": "SCP-066, prior to Incident 066-2."
+  },
+  "068": {
+    "id": "SCP-068",
+    "title": "The Wire Figure",
+    "class": "Safe",
+    "procedure": "SCP-068 is to be kept away from any metals in an electrically-resistant box, preferably made of polytetrafluoroethylene (teflon) and rubber. Said box is to be stored in security locker 26 at Site 11. Key is kept with Dr. █████. Any requests for testing are to be redirected to him.",
+    "description": "SCP-068 is a wire stick figure, 9.8 cm tall, made of an unknown metal. The figure is composed of a single wire looping back to the center. The wire itself appears to have been bent numerous times in multiple places.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-068/SCP068.jpg",
+    "caption": "SCP-068 in its dormant state."
+  },
+  "067": {
+    "id": "SCP-067",
+    "title": "The Artist's Pen",
+    "class": "Safe",
+    "procedure": "When not in use or the subject of study, SCP-067 is to be stored in its felt-lined wooden box. The nib is to be corked, and all art and writings are to be submitted to SCP Research command for analysis and further experimentation.",
+    "description": "SCP-067 is a fountain pen made by a German supply company called Pelikan at some point between World War I and II. It is pale green in color, with a single red line going straight down along the side. The shell is oak and the nib is extremely sharp, capable of piercing human skin if pressed even lightly. Though it apparently lacks a reservoir, the nib never appears to run out of fresh ink. In addition, the pen writes in Iron Gall ink, which is suitable for artists but would normally corrode typical fountain pens quickly.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-067/067-1.jpg",
+    "caption": "A close up of the nib of SCP-067"
+  },
+  "069": {
+    "id": "SCP-069",
+    "title": "Second Chance",
+    "class": "Safe",
+    "procedure": "SCP-069 is currently impersonating former Foundation Agent ███████ █████, and is housed at Humanoid Containment Site-06-3. SCP-069 is to be provided with any reasonable requested item and/or material so long as such request does not violate Foundation security protocols. As SCP-069 is currently on suicide watch, all requests it makes must be approved by no fewer than two (2) Level 3 personnel.",
+    "description": "SCP-069 is a presumed humanoid entity of variable appearance and gender. Through an unknown ability, whenever SCP-069 is left alone with a recently deceased human body, the body will disappear and SCP-069 will take on the appearance, mannerisms, and knowledge of the recently dead individual.",
+    "image": null,
+    "caption": null
+  },
+  "070": {
+    "id": "SCP-070",
+    "title": "Iron Wings",
+    "class": "Safe",
+    "procedure": "SCP-070 is to be kept within a 10 meter by 10 meter reinforced-concrete room that is to be guarded and remotely monitored at all times. This room must always be well-stocked with non-perishable food and water (see Document 070-IC for a complete inventory of these items), as well as basic amenities for humanoid SCPs. Security personnel assigned to SCP-070 are to carry sticky-foam guns in addition to standard armaments.",
+    "description": "SCP-070 appears to be a human male of Native American descent, with a normal appearance save for a pair of rusty metal “wings” emerging from his back. Each wing is composed of several flat iron bars about 6 cm wide connected end-to-end by rotating rivets to form an articulated length of metal over two meters long. Hanging from these bars are chains of various lengths, twenty-two on each wing, each tipped with a barbed arrowhead. SCP-070 appears to have no other anomalous properties besides these wings.",
+    "image": null,
+    "caption": null
+  },
+  "071": {
+    "id": "SCP-071",
+    "title": "Degenerative Metamorphic Entity",
+    "class": "Euclid",
+    "procedure": "SCP-071 is contained in a modified Standard Humanoid Containment Cell with no direct observation capabilities. Surveillance of SCP-071 may only be performed via closed circuit video with a minimum of 60 seconds of delay. Experimentation with SCP-071 may only be performed with permission from at least two (2) Level 4 Site Directors, and personnel entering SCP-071’s containment area may only do so in groups of at least four (4). Any personnel exhibiting unusual or compulsive behavior must be removed from the area immediately, given a full psychiatric screening, and either administered a Class C amnestic or reassigned as deemed appropriate.",
+    "description": "SCP-071 is a metamorphic entity that possesses the ability to assume forms consistent with that of its observer's strongest sexual desire. This ability is effective even through barriers designed to prevent SCP-071's recognition of any observers such as through closed circuit surveillance or one-way mirrors, but can be prevented by introducing a delay in surveillance footage so that such observation does not occur in real-time. SCP-071 appears to be unable or unwilling to change form without external stimuli, instead remaining in its last form when left unobserved. There appears to be little or no limit to the forms SCP-071 is capable of assuming (see Addendum 071-01 for additional information).",
+    "image": null,
+    "caption": null
+  },
+  "072": {
+    "id": "SCP-072",
+    "title": "The Foot of the Bed",
+    "class": "Safe",
+    "procedure": "All known instances of SCP-072 are to be contained in a 3.5 by 4 meter holding cell. Access is allowed only during authorized testing procedures. Without prior approval from Senior Researcher Grant, no materials created for the purpose of being slept on are to be introduced into a 15-meter vicinity of the holding cell.",
+    "description": "Instances of SCP-072 were first discovered in an apartment building in ████████, Michigan, after two local media reports on SCP-072’s effects caused a local panic which drew the attention of embedded Foundation Agent ███████.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-072/072.jpg",
+    "caption": "SCP-072-2 stripped of covers before being removed from ██████████ Apartments"
+  },
+  "073": {
+    "id": "SCP-073",
+    "title": "\"Cain\"",
+    "class": "Euclid",
+    "procedure": "SCP-073 is to be kept in a two (2) room cell furnished with all non-organic furniture and items, and a bathroom. Subject is allowed to freely wander the facility and eat in the main canteen. A tracking device has been attached to SCP-073's person and is not to be removed. Subject is disallowed any contact with the surface, and is not allowed outside the facility. Subject is allowed no contact with plant-based SCPs under any circumstances. Violence is not to be used against SCP-073 under any circumstances.",
+    "description": "SCP-073 appears to be a heavily-tanned male of Arabic or Middle Eastern descent in his early thirties, 185 cm (6'1\") tall and 75 kg (165 lbs), with black hair and blue eyes. Arms, legs, spinal cord, and shoulder blades of the subject appear to have been replaced with artificial versions of unknown make and metal. Subject only takes notice of this when it is pointed out, and states that it has no knowledge of how, why, or when these replacements took place, stating it had had them as long as it could remember. There is a symbol engraved into the forehead of the subject, which appears to be of Sumerian origin. Symbol has of yet been untranslated, and subject appears distressed when the symbol is mentioned at all, refusing to speak on it. Subject does need to eat and drink on a regular basis, but is strictly carnivorous owing to its effect on plant-based items.",
+    "image": null,
+    "caption": null
+  },
+  "074": {
+    "id": "SCP-074",
+    "title": "Quantum Woodlouse",
+    "class": "Euclid",
+    "procedure": "SCP-074 is contained at Site 81. SCP-074 is an active infohazard. No research in evaluating its anomalous properties is to be conducted. All personnel who have previously engaged in research into SCP-074's anomalous properties, who have a post-secondary or greater education in physics, or who have accessed Archive 074-317E, must never come within 5 km of SCP-074.",
+    "description": "SCP-074 is an anomalous organism which uses various quantum properties at a macroscopic scale, and in other ways modifies the standard laws of physics within its immediate vicinity. The specific nature of these modifications appears to be linked to the extent to which humans in SCP-074's vicinity are aware of the precise details of the physical laws which SCP-074 modifies, such that research to determine whether SCP-074 has a given property or capability, results in SCP-074 developing or manifesting that property or capability. Archive 074-317E — a full list of the anomalous physical phenomena known to be, or to have been, associated with SCP-074 — is available to personnel level 3 or higher; personnel who access this document will be disqualified from working with SCP-074, or for any other reason coming within 5 km of Site 81.",
+    "image": null,
+    "caption": null
+  },
+  "075": {
+    "id": "SCP-075",
+    "title": "Corrosive Snail",
+    "class": "Euclid",
+    "procedure": "SCP-075 is contained in a 1 m x 1 m x 1 m Level-4 corrosion-resistant container, which must be contained in a secure chamber with equal corrosion resistance. The absolute humidity of the chamber may not exceed 1% at any time. Medicinal-grade desiccants must be available at all times in order to maintain this level of humidity. If the humidity of SCP-075's chamber ever exceeds 1%, all personnel are to be evacuated immediately and the site will be locked down until the humidity is reduced to acceptable levels.",
+    "description": "SCP-075 resembles a large snail 20 cm in length, 13 cm in width, and 15 cm in height, with a muscular foot resembling a six-fingered, clawed hand. SCP-075 is exceptionally heavy, with a mass of approximately 860 kg, a property that is not understood. Desiccation is the only known means of containing SCP-075, as it will enter a dormant state when nearly completely dry.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-075/scp-075.jpg",
+    "caption": "SCP-075. Photo byDr. Takeshi Yamada."
+  },
+  "078": {
+    "id": "SCP-078",
+    "title": "Guilt",
+    "class": "Euclid",
+    "procedure": "SCP-078 is to be left hanging on the wall of its containment cell and physically unplugged. The sole outlet in the room should be controlled by a switch, which must be left in the off position at all times unless SCP-078 is undergoing testing. Personnel who enter the containment room should familiarize themselves with the position of the switch so that they can locate it with their eyes closed in the event that SCP-078 is accidentally turned on.",
+    "description": "SCP-078 is a pink neon sign approximately one and a half meters long that displays the phrase \"TOO LATE TO DIE YOUNG.\" It was initially recovered in the town of ████████, ████████, after standard Foundation data mining protocols recorded an abnormally high death rate due to starvation or other forms of self-neglect.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-078/078.png",
+    "caption": "SCP-078, before recovery"
+  },
+  "077": {
+    "id": "SCP-077",
+    "title": "Rot Skull",
+    "class": "Euclid",
+    "procedure": "SCP-077 is to be kept in Research Sector-861 on top of a 0.5 m steel pedestal in a 3 m x 3 m x 3 m chamber with 0.5 m thick steel-reinforced walls. The reinforced steel hatch-door to the chamber is to comply with AH37-Protocol, and is to be guarded at all times by two (2) Level-1 personnel. A boom mic connected to a speech recognition system should verify that all pronunciation is within standards. A camera is to be mounted within the chamber to record any changes.",
+    "description": "SCP-077 appears to be the top half of a human skull engraved with runes, each filled with an unidentified black resin. The runes change every lunar month (defined by the full moon rising above the horizon in Ireland), as well as at the winter and summer solstices, the spring and autumn equinoxes, and whenever a partial, annular, or total solar or lunar eclipse is visible from Ireland.",
+    "image": null,
+    "caption": null
+  },
+  "076": {
+    "id": "SCP-076",
+    "title": "\"Able\"",
+    "class": "Keter",
+    "procedure": "File. I know that Redact All Important Stuff Already claims it's a security risk, but you and I both know it's just top brass trying to sweep their biggest and most embarrassing mistake ever under the damn rug. Omega-Seven happened. It existed. Those people died because you screwed up, and you can't change that, no matter how hard you try to hide it.",
+    "description": "SCP-076 consists of two components: a stone cube (SCP-076-1) and a humanoid entity contained within (SCP-076-2).",
+    "image": null,
+    "caption": null
+  },
+  "080": {
+    "id": "SCP-080",
+    "title": "Dark Form",
+    "class": "Euclid",
+    "procedure": "SCP-080 is to be contained in a 4 m x 4 m room with a smaller antechamber located on the south wall to provide researchers with access. On the north wall, an observation room is to be connected, overlooking the main room through a window with thick black-out curtains that release only when the door to the observation room is closed. No attempts should be made to remove SCP-080 from this enclosure at any time. No more than one (1) 7 W incandescent light bulb is to be illuminated in the main room at any time. Absolutely no devices capable of producing light should be brought into the room. Under no circumstances should anything be brought into SCP-080’s containment room that has the ability to shroud, conceal, or otherwise hide SCP-080. Failure to adhere to this will result in disciplinary action.",
+    "description": "It is unknown if SCP-080 has a physical mass or \"body\", as all attempts to interact with it physically have failed and have been met with adverse effects (see Experiment Log 080-2 ). Researchers and personnel have described seeing SCP-080 as various shadows and humanoid effigies, with the only common attribute being two smoking \"eyes\". It has come to the attention of researchers that SCP-080 induces uncontrollable drowsiness upon anyone entering its chamber. After approximately 30 minutes, any person observing it will be forced into REM sleep and may suffer irreversible psychological damage. This effect occurs even if SCP-080 is being observed from a separate room (see Incident-080-1). If at any time SCP-080 finds a way to \"hide\" itself (such as in a cupboard, under a bed, covered in a sheet, etc.), it will disappear entirely. Additionally, if any light enters SCP-080’s containment room with a greater luminance than that produced by a standard children’s night light, SCP-080 will instantly vanish. Both of these events are considered a containment breach and any personnel responsible for this will be severely reprimanded and possibly reassigned. For all inquiries regarding the origin of SCP-080 and its procurement by the Foundation, please see attached [REDACTED].",
+    "image": null,
+    "caption": null
+  },
+  "079": {
+    "id": "SCP-079",
+    "title": "Old AI",
+    "class": "Euclid",
+    "procedure": "SCP-079 is packed away in a double-locked room in the secured general holding area at Site-15, connected by a 120VAC power cord to a small array of batteries and solar panels. Staff with Level 2 or higher clearance may have access to SCP-079. Under no circumstances will SCP-079 be plugged into a phone line, network, or wall outlet. No peripherals or media will be connected or inserted into SCP-079.",
+    "description": "SCP-079 is an Exidy Sorcerer microcomputer built in 1978. In 1981, its owner, █████ ██████ (deceased), a college sophomore attending ███, took it upon himself to attempt to code an AI. According to his notes, his plan was for the code to continuously evolve and improve itself as time went on. His project was completed a few months later, and after some tests and tweaks, █████ lost interest and moved on to a different brand of microcomputer. He left SCP-079 in his cluttered garage, still plugged in, and forgot about it for the next five years.",
+    "image": null,
+    "caption": null
+  },
+  "081": {
+    "id": "SCP-081",
+    "title": "Spontaneous Combustion Virus",
+    "class": "Euclid",
+    "procedure": "Only those with Level 4 clearance and written permission from ███████ may have access to SCP-081. Full hazard gear including suit, gloves, and an oxygen tank must be worn at all times when in the containment area. Suits must be sprayed with a disinfectant shower before leaving the containment area. If containment is breached, the entire area must be exposed to ultraviolet light and then bleached. Those who are suspected of being infected must be quarantined for at least ten (10) days. If no symptoms manifest after the tenth day, then quarantine can be lifted.",
+    "description": "SCP-081 is a contagious virus that appears to be a mutated version of the ███████ virus, but with █ segments in its RNA instead of █. The virus is human specific, but is spread by rats who act as passive carriers. SCP-081 can also be spread through sexual intercourse and exposure to infected blood.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-081/scp081.png",
+    "caption": "The remains of Mary Reeser following stage 4 SCP-081."
+  },
+  "082": {
+    "id": "SCP-082",
+    "title": "\"Fernand\" the Cannibal",
+    "class": "Euclid",
+    "procedure": "Enlarged living quarters located at Armed Bio-Containment Area-14 have been appropriated for the suppression and appeasement of SCP-082. While standard weapons have little effect in policing SCP-082, cooperation is easily attained through a charade; subject is currently under the impression that it has been made the King of France and that its containment area is actually a grand palace designed for its protection. All interacting personnel are to be made aware of this charade and are ordered to follow the ruse. Housekeeping personnel are to be Class D personnel only.",
+    "description": "SCP-082 is genetically human; however, through some process (either chemical, hormonal, cancerous, or supernatural), SCP-082 has grown to giant proportions. Approximately 2.4 meters tall (around 8 ft) and weighing over 310 kg (about 700 lb), SCP-082's physical characteristics are grossly disproportional. It has a slightly pointed balding head, a large rounded chin and jaw, a bulbous nose, and dark sunken eyes. Subject is both overweight and possesses a great amount of muscle mass. Forearms are muscular and dangerous, with a circumference of about 71 cm (about 28 in). The breadth of the subject's fist is nearly 30 cm along the knuckles (almost 12 in). Though feet are large, they are small in proportion to subject's body (men's size 14 US). Subject's skin is tanned dark and overall physical appearance is compounded by numerous scars (the results of years of attempts at suppression and containment). Most X-rays have been difficult to interpret because of the high density of its muscle tissue, but scans have revealed countless bullets and even several knife and sword blades lodged in SCP-082's flesh.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-082/SCP-082-new.png",
+    "caption": "SCP-082 attacking a Class-D personnel wearing a head mounted camera"
+  },
+  "083": {
+    "id": "SCP-083",
+    "title": "An Abandoned Row Home",
+    "class": "Euclid",
+    "procedure": "SCP-083 is to be kept under constant video surveillance, with at least one Level 3 staff member on call at all times to respond to security breaches. Entrance to SCP-083 is permissible to Level 1 and 2 personnel with proper clearances, provided they wear a tracking device while inside.",
+    "description": "SCP-083 appears to be an uninhabited, two-story row house in a general state of disrepair, with an interior of approximately 366 square meters. It is located in the ██████████ block of ███████. The deed and property tax records for the address are missing after ██████. The last known persons to reside at the address were the ███████ family, but [DATA EXPUNGED]. Until acquisition by the Foundation, the property was the reputed \"office\" for local narcotics dealers who gained entry to the structure through a front window, since the locking mechanisms on both the front and back doors were corroded and frozen shut. SCP-083 first came to the Foundation's attention on ███████, when an altercation outside the building resulted in the front door being kicked in by [DATA EXPUNGED].",
+    "image": null,
+    "caption": null
+  },
+  "084": {
+    "id": "SCP-084",
+    "title": "Static Tower",
+    "class": "Euclid",
+    "procedure": "SCP-084 is currently under a full non-interaction order until the full extent of the emission waves has been evaluated (for detailed documentation on general FNI orders, see Document XRG-1182; for detailed documentation on FNI orders in relation to SCP-084, see Document XRG-1208A). A continuous surveillance watch is to be maintained around the active area of SCP-084, with the primary objective of civilian misdirection and external surveillance. With no major roads, trails, or other travel routes nearby, any civilians encountered approaching SCP-084 are to be deemed suspect and detained for evaluation. Under no circumstances are any Foundation or civilian personnel allowed in to the active area of SCP-084, except with express vocal and written permission of no fewer than two (2) members of O5 Command.",
+    "description": "SCP-084 appears to be a large radio tower positioned in the center of a large, open field with two small outbuildings. Direct observation and sample collection from SCP-084 is impossible, due to the effect that is emitted around/from SCP-084. SCP-084 appears to emit a form of wave or radiation that has a detrimental effect on local space-time/reality. The most pronounced aspect of this is the alteration of local space within the active area of SCP-084. Externally, the active area forms a rough “dome” shape of two hundred (200) meters in diameter. SCP-084 appears inside this area at random points, appearing to “jump” at random times , sometimes even appearing in multiple locations at once inside the active area. Internally, the space appears to be unlimited, with SCP-084 at the “center”.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-084/radio%20tower.jpg",
+    "caption": "SCP-084. Image recovered from initial recon recordings. All other images subject to SCP-084 \"broadcast\"."
+  },
+  "085": {
+    "id": "SCP-085",
+    "title": "Hand-drawn ''Cassy''",
+    "class": "Safe",
+    "procedure": "[Revised on ██-██-████]. SCP-085 is to be contained in a single chalk-white bond drawing pad in a secure containment facility. Supervised contact with SCP-085 is unrestricted to all personnel with Level-2 access. All personnel coming into contact with SCP-085 are subject to searches and random psych analysis upon entering or leaving the containment area.",
+    "description": "SCP-085 is the result of an experiment conducted between SCP-067 and SCP-914 . Using SCP-067 , Test Subject-1101F drew a single female figure, about 15 cm (6 in) in height and 3.8 cm (1.5 in) wide, in summer dress with long hair pulled back into a ponytail, with the name \"Cassandra\" written underneath. Dr. [EXPUNGED] proposed using SCP-914 on various settings on images created by SCP-067 : Using the [Fine] setting, the 'Cassandra' sketch was transmuted into her present form: a sentient black-and white-animated young woman drawn in clean strokes. Further attempts to duplicate this result have been unsuccessful.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-085/scp085-03.png",
+    "caption": "Static reproduction of SCP-085"
+  },
+  "087": {
+    "id": "SCP-087",
+    "title": "The Stairwell",
+    "class": "Euclid",
+    "procedure": "SCP-087 is located on the campus of [REDACTED]. The doorway leading to SCP-087 is constructed of reinforced steel with an electro-release lock mechanism. It has been disguised to resemble a janitorial closet consistent with the design of the building. The lock mechanism on the doorknob will not release unless ██ volts are applied in conjunction with counter-clockwise rotation of the key. The inside of the door is lined with 6 centimeters of industrial foam padding.",
+    "description": "SCP-087 is an unlit platform staircase. Stairs descend on a 38 degree angle for 13 steps before reaching a semicircular platform of approximately 3 meters in diameter. Descent direction rotates 180 degrees at each platform. The design of SCP-087 limits subjects to a visual range of approximately 1.5 flights. A light source is required for any subjects exploring SCP-087, as there are no lighting fixtures or windows present. Lighting sources brighter than 75 watts have shown to be ineffective, as SCP-087 seems to absorb excess light.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-087/087face.jpg",
+    "caption": "Figure B: SCP-087-1; Enhanced image from still taken from Exploration I."
+  },
+  "086": {
+    "id": "SCP-086",
+    "title": "The Office of Dr. [REDACTED]",
+    "class": "Safe Euclid Safe",
+    "procedure": "SCP-086 is contained within Office A-19, at Bio-Research Station 71. The secretarial post outside the door is to be staffed by 1 (one) armed guard. All components of SCP-086 are to be kept within 6 (six) meters of each other.",
+    "description": "SCP-086 is a collective sessile organism whose component parts resemble items of office equipment from 1978, and which contains a consciousness claiming to be that of former Foundation administrator Dr. [REDACTED] (1907-1978). Its 8 (eight) components are: a rotary telephone (SCP-086-1), a wall-mounted pencil sharpener (SCP-086-2), a desk stapler (SCP-086-3), a microfiche reader (SCP-086-4), a water cooler (SCP-086-5), a filing cabinet (SCP-086-6), a scientific calculator (SCP-086-7), and a slide rule (SCP-086-8). No physical connection or electromagnetic transmission between any of these components has been detected.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-086/rotary.JPG",
+    "caption": "SCP-086-1"
+  },
+  "088": {
+    "id": "SCP-088",
+    "title": "The Lizard King",
+    "class": "Safe",
+    "procedure": "SCP-088 is to remain sealed in its airtight case at all times. The case is constructed of transparent acrylic plastic to resist the corrosive properties of SCP-088's secretions. In the event that SCP-088 should awaken from hibernation, any room that it is stored within should be constructed of durable plastics, rubber or ceramics to hinder its ability to escape. Temperature of SCP-088's containment should not exceed 15 degrees Celsius, and any personnel entering containment must observe level 4 hazardous material protocols and wear the appropriate protective gear at all times.",
+    "description": "SCP-088 is a humanoid with reptilian features which appears to have been mummified in a languid posture. However, SCP-088 is merely in a state of hibernation from which it may recover if it is again exposed to a more hospitable environment than its current containment. Research has indicated that SCP-088 is approximately 6000 years old and is capable of secreting a variety of hazardous biological compounds from its mouth and hands. Some of these substances could be of great strategic value if replicated, but until a means to extract them without awakening SCP-088 is found, research into this area is on hold.",
+    "image": null,
+    "caption": null
+  },
+  "090": {
+    "id": "SCP-090",
+    "title": "Apocorubik's Cube",
+    "class": "Keter",
+    "procedure": "Artifact is to be held in a secure bunker in the facility at Site ██ and constantly monitored by approved Class D Personnel. The object's new arrangement is to be imaged every time it shifts. New arrangements are fed into the facility's Class-OT Supercomputer. Division Chief is to be notified of all changes and current estimates every half-hour. No personnel is to touch SCP-090 except under order ███-██-████.",
+    "description": "SCP-090 was located and retrieved in ███████, ██████ on April 10, 19██. Prior to retrieval, SCP-090 had been located in a chamber at the nearby cathedral. SCP-090 was removed, the cathedral burned, 6 monks and the priest were terminated. SCP-090 has been located at Site ██ since the retrieval. Object's initial location prior to the cathedral is unrecorded.",
+    "image": null,
+    "caption": null
+  },
+  "091": {
+    "id": "SCP-091",
+    "title": "Nostalgia",
+    "class": "Anomalous Safe",
+    "procedure": "SCP-091 is to be stored in a standard containment locker at Site-██. When SCP-091 is not being tested, it is to be placed under combination lock. Since SCP-091 has shown no signs of resistance to tearing or damage greater than that of normal cardboard, great care should be taken when transporting it to and from testing sites.",
+    "description": "SCP-091 is a “Scotties” brand tissue box, currently empty. Immediately upon observing SCP-091, viewers report an overwhelming sense of nostalgia. Those affected begin reminiscing about times they “were near” SCP-091, major events that occurred while it was present, or people and places that somehow relate to it.",
+    "image": null,
+    "caption": null
+  },
+  "089": {
+    "id": "SCP-089",
+    "title": "Tophet",
+    "class": "Euclid (see below)",
+    "procedure": "SCP-089 is stored in a special shipping container at Site-36 and monitored for locution events. Mobile Task Force Mu-89, consisting of personnel with advanced training in linguistics, psychology and tactical diplomacy, has been established in order to respond to such locution events. Upon the occurrence of a locution event, Mobile Task Force Mu-89 is to translate and interpret the locution so as to identify the primary subjects of that triggering (herein designated as SCP-089-A and SCP-089-B), then execute Protocol M8, which consists of the following steps:",
+    "description": "SCP-089 is a glazed earthenware statue, approximately 3 meters in height, depicting a winged, bull-headed humanoid with an open mouth. The front of the statue’s torso is hinged and can be opened from the top to reveal a cavity, approximately 0.6 cubic meters in volume, and can be locked from the outside. The rear of the statue bears an inscription in a Canaanite language (possibly Punic). 1 The statue dates from approximately the 2nd century BCE.",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-089/scp-089-new.jpg",
+    "caption": "SCP-089, after transportation to SCP-089-B's location in order to perform Protocol M8."
+  },
+  "092": {
+    "id": "SCP-092",
+    "title": "\"The Best of The 5th Dimension \"",
+    "class": "Safe",
+    "procedure": "The three thousand one hundred and twenty-five instances of SCP-092 are to be held in individual cases suitable for containing non-anomalous audio compact discs (CDs), and stored in standard inanimate-object lockers at Site-37. Each instance is to be individually numbered with permanent marker.",
+    "description": "SCP-092 is a set of 3125 audio CDs, each labeled \"The Absolute Absolute Absolute Absolute BEST of The 5th Dimension!!!!!\", and marked with the names of the 31 performers who have at various times been part of the American singing group \"The 5th Dimension\". Each instance of SCP-092, when played in a standard CD player, will produce a distinct anomalous effect upon all individuals within hearing range. The anomalous phenomenon will last 74 minutes (the duration of a standard audio CD), during which time listeners will be unable to leave hearing range, or to shut off the CD player or otherwise interrupt its function. As well, when the anomalous phenomenon finishes, all surviving listeners will engage in synchronized vocalization of the phrase \"Wow, that was real cool\"; synchronized vocalization has been observed in non-anglophones, pre-verbal infants, unconscious individuals, paralyzed individuals, and individuals physically incapable of speech due to laryngeal, lingual, and/or buccal damage.",
+    "image": null,
+    "caption": null
+  },
+  "094": {
+    "id": "SCP-094",
+    "title": "Miniature Event Horizon",
+    "class": "Keter",
+    "procedure": "Since SCP-094 is apparently immovable, a research and containment facility has been built around its location (centered at 4█.██████°S, 6█.██████°W) in the guise of an Argentinian military research base. No unauthorized persons or aircraft may come within one kilometer of the site, enforced by joint SCP and Argentinian forces.",
+    "description": "SCP-094 appears to be a perfectly black sphere, 163 cm in diameter, suspended approximately 3 m off the ground with no apparent means of support. SCP-094 has been classified as a miniature event horizon: any matter that moves into SCP-094, including light, is irretrievably gone. However, SCP-094 is not a black hole since it does not exert a gravitational pull.",
+    "image": null,
+    "caption": null
+  },
+  "093": {
+    "id": "SCP-093",
+    "title": "Red Sea Object",
+    "class": "Euclid",
+    "procedure": "See testing document SCP-093-T1 for outline of testing conditions. SCP-093 must remain on a mirror at all times and under video surveillance. Admittance into the area of SCP-093's containment must be authorized only with proper video recording and subject retrieval procedures in place. Any attempt to use SCP-093 outside of an approved test will be dealt with severely, up to and including termination.",
+    "description": "SCP-093 is a primarily red disc carved from a stone composite resembling cinnabar, with circular engravings and unknown symbols carved at 0.5 cm depth around the entire object. Deeper cuts are present on SCP-093 with a depth of 1 to 1.5 cm. SCP-093 is 7.62 cm in diameter and fits comfortably into most palms without abrasion. SCP-093 will change hue when held by a living individual. The colors taken by SCP-093 are still being researched to establish a link. Current belief holds that the changes depend upon regrets carried by the holder.",
+    "image": null,
+    "caption": null
+  },
+  "095": {
+    "id": "SCP-095",
+    "title": "The Atomic Adventures of Ronnie Ray-Gun",
+    "class": "Safe",
+    "procedure": "SCP-095 is to be placed in a standard polyethylene sleeve when not under scheduled research and stored in a standard locked filing cabinet to prevent damage or wear. High-resolution digital scans are available for any Level 1 and above personnel who wish to view SCP-095.",
+    "description": "SCP-095 appears to be a set of three moderately aged black and white comic books printed in 1932. The front and rear covers are missing and several pages have been rendered illegible due to water damage. It was found by Agent ███████ in a small antique shop in Denver, Colorado, and purchased for a small fee without incident. The owner of the shop had apparently not read the item past the publisher’s date on the first page.",
+    "image": null,
+    "caption": null
+  },
+  "096": {
+    "id": "SCP-096",
+    "title": "The \"Shy Guy\"",
+    "class": "Euclid",
+    "procedure": "SCP-096 is to be contained in its cell, a 5 m x 5 m x 5 m airtight steel cube, at all times. Weekly checks for any cracks or holes are mandatory. There are to be absolutely no video surveillance or optical tools of any kind inside SCP-096's cell. Security personnel will use pre-installed pressure sensors and laser detectors to ensure SCP-096's presence inside the cell.",
+    "description": "SCP-096 is a humanoid creature measuring approximately 2.38 meters in height. Subject shows very little muscle mass, with preliminary analysis of body mass suggesting mild malnutrition. Arms are grossly out of proportion with the rest of the subject's body, with an approximate length of 1.5 meters each. Skin is mostly devoid of pigmentation, with no sign of any body hair.",
+    "image": null,
+    "caption": null
+  },
+  "098": {
+    "id": "SCP-098",
+    "title": "Surgeon Crabs",
+    "class": "Safe",
+    "procedure": "Members of SCP-098 are to be kept in a 10 m x 20 m room with small pools of water and a sandy substrate. Rocks and driftwood are to be left in a random arrangement for SCP-098 to nest in.",
+    "description": "SCP-098 is a species of previously unknown crustacean. They resemble crabs, but rather than chelae, the front limbs terminate in knife-like structures that incorporate silica to form an extremely sharp edge. Specimens reach larger size than normal for land-dwelling arthropods, at 47 centimeters tall and as large as 67 centimeters across its carapace.",
+    "image": "http://scp-wiki.wdfiles.com/local--files/scp-098/Crab.jpg",
+    "caption": "SCP-098-4"
+  },
+  "097": {
+    "id": "SCP-097",
+    "title": "Old Fairgrounds",
+    "class": "Euclid",
+    "procedure": "SCP-097 is contained within the limits of the property where it was initially discovered, Zone-SCP-097. The property is surrounded by an 8 metre tall concrete block fence, fitted with barbed wire and security camera systems. Satellite images of Zone-SCP-097 are to be doctored, removing all traces of the area.",
+    "description": "SCP-097 is a ten acre area of land in the state of [REDACTED], in the Midwestern United States. It is the abandoned remains of the [REDACTED] County Fair 1969, an area of approximately 2.3 km 2 (approx. 5.4 sq. mi). Structures within the SCP area exist in a state of moderate disrepair, consistent with the expected age and environment.",
+    "image": null,
+    "caption": null
+  },
+  "099": {
+    "id": "SCP-099",
+    "title": "The Portrait",
+    "class": "Safe",
+    "procedure": "SCP-099 is kept in a 1 m x 75 cm wall-mounted, fireproof case in Gallery 27. Standard climate and humidity controls apply to this section of the Gallery. Due to its properties, SCP-099 can only be viewed within the gallery by Level 2 staff or higher, and only from a distance greater than five meters and for a period not to exceed five minutes per day. When not being viewed, the case is to remain shut and electronically locked.",
+    "description": "SCP-099 is a 73 x 50 cm painting titled \"The Portrait.\" Created in 1935 by surrealist painter René Magritte, the original painting possesses memetic properties that trigger acute paranoia and lingering psychological effects when viewed for too long or from a distance of approximately three meters or less. The painting depicts a simple still life, with the addition of a single eye staring back at the viewer.",
+    "image": null,
+    "caption": null
+  },
+  "100": {
+    "id": "SCP-100",
+    "title": "\"Jamaican Joe's Junkyard Jubilee\"",
+    "class": "Euclid",
+    "procedure": "SCP-100 is to have six (6) guards patrolling the interior of the perimeter's fencing, and two (2) guards dedicated to the monitoring of the interior and exterior of both warehouses and the residential building, with rotations to occur every three (3) hours. Any unauthorized personnel found within SCP-100 are to be detained for questioning, prior to amnestic administration and release.",
+    "description": "SCP-100 is an abandoned scrapyard eighty (80) kilometers from █████████, South Carolina, known as \"Jamaican Joe's Junkyard Jubilee\". The scrapyard covers roughly five thousand (5,000) square meters of fenced-off land, consisting of two warehouses, a storefront, and a small residential building, as well as neglected land and land used for storage. SCP-100 holds roughly fifteen hundred (1,500) vehicles, both pressed and unpressed, as well as roughly fourteen hundred (1,400) kilograms of separate scrap, estimated to be worth $5,000 (€3,870).",
+    "image": "https://scp-wiki.wdfiles.com/local--files/scp-100/1YBBZ.png",
+    "caption": "SCP-100's storefront, exterior"
+  }
+}
