@@ -10,6 +10,18 @@ html {
     }
 }
 
+.sticky-header {
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+}
+
+.sticky-top {
+    top: 100px !important;
+    z-index: 999 !important;
+}
+
 .btn:focus,
 .btn:active:focus,
 .btn-link.nav-link:focus,
