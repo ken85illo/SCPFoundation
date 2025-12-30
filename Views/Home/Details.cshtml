@@ -40,14 +40,15 @@
 
             <hr class="text-grey mb-4">
 
-            <div class="procedure text-white inter px-4 py-4 mb-5">@Model.Procedure</div>
+            <div class="procedure text-white inter px-4 py-4 mb-5 br-space">@Html.Raw(Model.Procedure)
+            </div>
 
             <div class="text-grey fs-5 jb-mono mb-2 fw-bold">SECTION_02</div>
             <div class="text-white fs-4 fw-bold inter ">DESCRIPTION</div>
 
             <hr class="text-grey mb-4">
 
-            <div class="text-white inter px-2">@Model.Description</div>
+            <div class="text-white inter px-2 br-space">@Html.Raw(Model.Description)</div>
 
             <hr class="text-grey mb-4" style="margin-top: 70px; height: 2px;">
 

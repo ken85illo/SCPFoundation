@@ -5,6 +5,8 @@ namespace SCPFoundation.Models;
 public class SCPItem
 {
     private string _class = "unknown";
+    private string _procedure = "";
+    private string _description = "";
 
     [JsonPropertyName("id")]
     public string? Id { get; set; }
@@ -32,10 +34,30 @@ public class SCPItem
     }
 
     [JsonPropertyName("procedure")]
-    public string? Procedure { get; set; }
+    public string? Procedure
+    {
+        get => _procedure;
+        set
+        {
+            if (string.IsNullOrEmpty(value))
+                _procedure = "No Record of Special Containment Procedures";
+            else
+                _procedure = value;
+        }
+    }
 
     [JsonPropertyName("description")]
-    public string? Description { get; set; }
+    public string? Description
+    {
+        get => _description;
+        set
+        {
+            if (string.IsNullOrEmpty(value))
+                _description = "No Description Records";
+            else
+                _description = value;
+        }
+    }
 
     [JsonPropertyName("image")]
     public string? Image { get; set; }
