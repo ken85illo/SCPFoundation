@@ -372,3 +372,17 @@ body {
 .br-space br {
     margin-bottom: 20px;
 }
+
+.img-sizer div:has(img) {
+    max-width: 95% !important;
+
+    img {
+        max-width: 100% !important;
+        height: auto !important;
+    }
+}
+
+.inactive-link {
+    pointer-events: none;
+    cursor: default;
+}
